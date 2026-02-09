@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-09 13:12:06",
+    "updated_at": "2026-02-09 18:16:06",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "양요섭",
+            "title": "Unloved Echo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/228/537/87228537_1770257206513_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113774732",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "IVE (아이브)",
+            "title": "REVIVE＋",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/225/87233225_1770354427282_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113791695",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": true
+        },
+        {
+            "artist": "TWS (투어스)",
+            "title": "다시 만난 오늘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/322/87243322_1770595290838_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113830139",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "청하",
+            "title": "Save me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/227/87233227_1770354435295_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113791703",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "drcallihan",
+            "title": "COMA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/619/87233619_1770361894012_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113793698",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "소향",
+            "title": "My Little New Diary. Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/238/87229238_1770366718383_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113778001",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "정창룡",
+            "title": "숫자만 남은 너의 번호",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/232/558/87232558_1770338211709_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113788588",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "일레인",
+            "title": "은애하는 도적님아 OST Part 6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/219/860/87219860_1770099100724_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113743617",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "세노",
+            "title": "Blue Fantasy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/717/87224717_1770184297778_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113761920",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "선우정아",
+            "title": "복면가왕 - 더 파이널 마스크",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/232/955/87232955_1770345390722_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113790022",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "먼데이 키즈",
+            "title": "먼키의 발자국 Vol.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/012/87233012_1770348399102_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113790519",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
+        {
+            "artist": "THAMA",
+            "title": "LOST (Positively Yours X THAMA)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/486/87233486_1770359496719_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113793145",
+            "found_at": "2026-02-09 18:16",
+            "is_tracked": false
+        },
         {
             "artist": "MADEIN (메이딘)",
             "title": "Girl Meets Boy",
