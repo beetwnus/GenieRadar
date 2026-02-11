@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-11 13:12:29",
+    "updated_at": "2026-02-11 18:09:55",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "오월오일 ( 五月五日 )",
+            "title": "Leaves",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/304/87233304_1770355903376_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113792072",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "이예은",
+            "title": "그대라는 노래를 부르면",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/833/87224833_1770186695793_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113762569",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "황민현",
+            "title": "HWANG MIN HYUN DIGITAL SINGLE 'Truth'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/253/554/87253554_1770768697479_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113861506",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "테이 (Tei)",
+            "title": "끝사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/285/87250285_1770709898802_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113851002",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "여원",
+            "title": "Run it up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/404/87249404_1770690747500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113847312",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "벨 (KISS OF LIFE)",
+            "title": "웹툰 '재혼 황후' OST Part. 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/771/87206771_1770706831793_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694441",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": true
+        },
+        {
+            "artist": "blah",
+            "title": "Normal Life",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/245/556/87245556_1770717684723_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113835281",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "전지우",
+            "title": "JIWOO 1st EP '(EX)IST'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/291/87250291_1770710185303_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113851008",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "KOR KASH",
+            "title": "서인덕",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/243/709/87243709_1770716179498_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113831096",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "유키",
+            "title": "영화 '턴더스트릿' Special Track. 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/058/87249058_1770686205199_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113846043",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세빈",
+            "title": "The Last Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/934/87233934_1770365855375_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113794519",
+            "found_at": "2026-02-11 18:09",
+            "is_tracked": false
+        },
         {
             "artist": "LIT",
             "title": "My time is LIT",
