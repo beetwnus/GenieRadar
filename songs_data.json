@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-18 13:03:34",
+    "updated_at": "2026-02-18 18:05:59",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,62 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Super Joy Club",
+            "title": "어떻게 평화할까?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/002/87250002_1770702695103_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113849465",
+            "found_at": "2026-02-18 18:05",
+            "is_tracked": true
+        },
+        {
+            "artist": "KCM",
+            "title": "잊혀져가더라",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/941/87255941_1770796590549_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870341",
+            "found_at": "2026-02-18 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤원",
+            "title": "내가 더 사랑하면 되는 거잖아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/403/87255403_1770790011800_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113868051",
+            "found_at": "2026-02-18 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "스카프 (SC4F)",
+            "title": "SUBWOOFER SOUL (Intro)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/712/87249712_1770883888172_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113848251",
+            "found_at": "2026-02-18 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "조성확 (IHWAK)",
+            "title": "Call It Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/992/87255992_1770798130557_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870585",
+            "found_at": "2026-02-18 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "천승찬",
+            "title": "친밀한 리플리 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/256/109/87256109_1770874968541_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113871088",
+            "found_at": "2026-02-18 18:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "여지영",
+            "title": "ㄱ",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/229/149/87229149_1770948129519_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113777612",
+            "found_at": "2026-02-18 18:05",
+            "is_tracked": false
+        },
         {
             "artist": "TYVE",
             "title": "Wherever You Go",
