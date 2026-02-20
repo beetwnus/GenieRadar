@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-20 12:57:23",
+    "updated_at": "2026-02-20 17:57:21",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,70 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "박군",
+            "title": "땡잡았다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/239/87250239_1770713725768_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113850745",
+            "found_at": "2026-02-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "서은광 (비투비)",
+            "title": "오늘부터 인간입니다만 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/610/87249610_1770694297834_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113847912",
+            "found_at": "2026-02-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hearts2Hearts (하츠투하츠)",
+            "title": "RUDE!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/287/901/87287901_1771485100205_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113970278",
+            "found_at": "2026-02-20 17:57",
+            "is_tracked": true
+        },
+        {
+            "artist": "I.M (아이엠) & 윤석 (YOONSEOK) & WOOKI & OF'F",
+            "title": "CODA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/374/87255374_1770789813488_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113867996",
+            "found_at": "2026-02-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "X:IN (엑신)",
+            "title": "Hyper",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/660/87255660_1770874992018_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113869221",
+            "found_at": "2026-02-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "성수진",
+            "title": "어떤가요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/409/87255409_1770790042736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113868063",
+            "found_at": "2026-02-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "크래커 (CRACKER)",
+            "title": "1000/60",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/937/87255937_1770796321788_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113870321",
+            "found_at": "2026-02-20 17:57",
+            "is_tracked": false
+        },
+        {
+            "artist": "NECTA",
+            "title": "PUT THEM IN SHOYU",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/224/950/87224950_1771461284483_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113763224",
+            "found_at": "2026-02-20 17:57",
+            "is_tracked": false
+        },
         {
             "artist": "H3ATHR SUN (헤더썬)",
             "title": "Situationship",
