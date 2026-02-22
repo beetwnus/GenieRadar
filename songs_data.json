@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-22 12:59:00",
+    "updated_at": "2026-02-22 17:46:10",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "유승범",
+            "title": "금지된 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/259/948/87259948_1770881580143_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113885061",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "류민희",
+            "title": "북극성",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/258/703/87258703_1770958639583_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113880104",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "길구 (길구봉구)",
+            "title": "짝사랑을 망치고 싶어 X 길구 (길구봉구)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/250/754/87250754_1770718891780_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113852679",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "최유리",
+            "title": "초봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/286/586/87286586_1771463814271_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113965701",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "더 데이지 (The Daisy)",
+            "title": "흔들려도 괜찮아 (더 데이지 (The Daisy) X 매드 댄스 오피스)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/258/800/87258800_1770857792136_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113880339",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "#안녕",
+            "title": "그댄 어떤가요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/256/114/87256114_1771554328640_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113871138",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "선우정아",
+            "title": "찬란한 너의 계절에 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/254/419/87254419_1770947855427_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113864390",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "배기성",
+            "title": "산골 소년의 사랑이야기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/256/122/87256122_1770801091361_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113871164",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "이석주",
+            "title": "Last Night on Earth",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/238/433/87238433_1771486601655_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113813129",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "볼보이어택스 (Ballboyattacks)",
+            "title": "Ballboyattacks 1st mini album 55",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/253/936/87253936_1770789194009_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113862544",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "송가인",
+            "title": "사랑아 사랑아 (from 사랑을 처방해 드립니다 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/258/941/87258941_1770861094427_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113880894",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이스해머 (BassHammer) & ENDRUN",
+            "title": "Hammer Blaze",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/255/715/87255715_1770793912387_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113869471",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "TRADE L",
+            "title": "LOVE MAZE II",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/259/210/87259210_1770865941479_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113881959",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "김성규",
+            "title": "Over It",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/288/277/87288277_1771489923474_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113971444",
+            "found_at": "2026-02-22 17:46",
+            "is_tracked": false
+        },
         {
             "artist": "김시원",
             "title": "코미디언",
