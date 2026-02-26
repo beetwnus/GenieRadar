@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-26 13:01:18",
+    "updated_at": "2026-02-26 18:06:45",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "윤토벤 (YounToven)",
+            "title": "그만 놔",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/291/237/87291237_1771552337308_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113981594",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "BIG Naughty (서동현)",
+            "title": "코발트와 네이비 그 사이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/311/049/87311049_1772004169580_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114051381",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "QQQ",
+            "title": "1st MINI ALBUM (QtoresQ)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/306/199/87306199_1771927611267_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114035057",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "어센트 (ASC2NT)",
+            "title": "STILL : I",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/259/634/87259634_1770876700396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113884003",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "이민혁",
+            "title": "안고 있자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/292/581/87292581_1771576301029_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113985624",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "전상근",
+            "title": "우주를 줄게 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/145/87305145_1772017323401_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114029503",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "이석훈",
+            "title": "LEESEOKHOON Digital Single '사랑이란 건'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/981/87310981_1772003504083_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114051208",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "AtHeart (앳하트)",
+            "title": "Shut Up",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/295/87310295_1771995444217_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114048338",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "LAVIN(래빈)",
+            "title": "Animated",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/248/87305248_1772068649972_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114030043",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "MY:RAKL",
+            "title": "좋을때야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/414/87305414_1771915894451_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114031000",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "주대건",
+            "title": "널 보고 듣고 부르고 싶다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/055/87310055_1771992091539_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114047292",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "My Prelude",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/249/955/87249955_1772011178153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113849216",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈세진 (BINSEJIN) & 진우성",
+            "title": "RACING2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/309/752/87309752_1771988811260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114046114",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
+        {
+            "artist": "현재",
+            "title": "예전처럼만",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/286/918/87286918_1771485743677_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113966838",
+            "found_at": "2026-02-26 18:06",
+            "is_tracked": false
+        },
         {
             "artist": "pedlar",
             "title": "All Day",
