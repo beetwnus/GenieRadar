@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-02-27 12:55:58",
+    "updated_at": "2026-02-27 17:59:08",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "WEZAG",
+            "title": "The First Harmony",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/300/775/87300775_1771813893133_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114011915",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "BLACKPINK",
+            "title": "DEADLINE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/316/685/87316685_1772156918165_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114076239",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": true
+        },
+        {
+            "artist": "AB6IX (에이비식스)",
+            "title": "So Sweet (0522)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/472/87305472_1772017336085_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114031277",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "웬디 (WENDY) & Alec Benjamin",
+            "title": "EMOTIONS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/163/750/87163750_1772167605283_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113509378",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": true
+        },
+        {
+            "artist": "이우 & 박제업",
+            "title": "이다락 프로젝트Ⅱ Pt.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/111/87314111_1772082715377_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114064795",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "aespa & Anderson .Paak",
+            "title": "Keychain (FROM THE FILM K-POPS!)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/311/152/87311152_1772172990959_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114051904",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": true
+        },
+        {
+            "artist": "윤종신",
+            "title": "2026 월간 윤종신 2월호",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/408/87313408_1772067695903_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114061494",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "RESCENE (리센느)",
+            "title": "［RESCENE X ???］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/301/643/87301643_1772154691174_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114016866",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": true
+        },
+        {
+            "artist": "Dbo (디보)",
+            "title": "Real Purpose",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/296/090/87296090_1772086105255_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113996572",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤새 (Yunsae)",
+            "title": "Forevermore",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/272/111/87272111_1771127798878_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113919512",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": true
+        },
+        {
+            "artist": "수연이",
+            "title": "TYT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/291/254/87291254_1771573530175_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113981653",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "entoy",
+            "title": "Time waste",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/694/87313694_1772073396237_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114063149",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "박진휘",
+            "title": "세실리안",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/833/87305833_1772008401635_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114033056",
+            "found_at": "2026-02-27 17:59",
+            "is_tracked": false
+        },
         {
             "artist": "J.Fla",
             "title": "Don't Fade Me Out",
