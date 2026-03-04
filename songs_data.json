@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-04 00:01:16",
+    "updated_at": "2026-03-04 12:50:35",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "정윤 & aiai",
+            "title": "crybaby",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/534/87314534_1772091092233_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114066751",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "신원호",
+            "title": "ONE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/175/065/87175065_1772177893628_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113553687",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "로키드 (Lokid)",
+            "title": "나만 혼자 진심이고 애쓰는 것 같아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/617/87332617_1772583835304_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114131394",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "Moon (혜원)",
+            "title": "Sugar Pie",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/331/621/87331621_1772506300222_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114128028",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "PERCENT",
+            "title": "DOOR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/116/87305116_1772507762831_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114029427",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "홍지윤",
+            "title": "현역가왕3 결승 1차 신곡 대첩",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/333/230/87333230_1772532692592_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114133390",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "한지효",
+            "title": "You Loved Me First",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/318/171/87318171_1772528157964_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114083922",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "아울러 (OWLER)",
+            "title": "뭐였지",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/331/194/87331194_1772500326535_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114126404",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "SLAY (슬레이)",
+            "title": "그리워하다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/643/87332643_1772521293400_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114131438",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "Masterclass",
+            "title": "The Reel",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/060/87317060_1772172470109_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114077573",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "쏘망 (50mang) & 미상",
+            "title": "원왕생가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/331/195/87331195_1772500331835_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114126405",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "신현우",
+            "title": "작고 소중해 2026",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/331/476/87331476_1772503917251_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114127402",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "예원 (MIMIIROSE) & 효리 (MIMIIROSE)",
+            "title": "사랑해 악마 OST X 예원,효리 of MIMIIROSE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/495/87310495_1772514649285_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114048992",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "꿈의 악마",
+            "title": "Dream Capture",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/868/87317868_1772528237340_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114082525",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "PILLOW",
+            "title": "Drive Out (Prod. RYUKIE)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/304/574/87304574_1771901529738_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114027220",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "김준범",
+            "title": "아주 먼 미래, 마지막 순간",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/343/87220343_1772506734437_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113745706",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "도비비 (Dovlvl)",
+            "title": "타임머신은 끝나지 않았다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/131/87317131_1772504475179_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114078203",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "나로 피어나는 봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/304/994/87304994_1772086455299_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114028821",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "오연하",
+            "title": "만약에 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/572/87314572_1772092290540_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067055",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "김승민 & RYUL & 래원 (Layone) & OLNL (오르내림) & Cosmic Boy",
+            "title": "반틈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/450/87313450_1772068609266_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114061722",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "TUNEXX (튜넥스)",
+            "title": "SET BY US ONLY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/619/87314619_1772093791020_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067339",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sondia",
+            "title": "세이렌 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/630/87314630_1772093828717_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067414",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "Big Ocean",
+            "title": "THE GREATEST BATTLE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/221/87314221_1772084192107_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065127",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "가비엔제이 (Gavy NJ)",
+            "title": "The Gavy NJ : II",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/852/87314852_1772099533035_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114068470",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "박찬영",
+            "title": "머물던 순간들",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/718/87310718_1772156920142_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114049929",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "오묘 & 오연",
+            "title": "안녕 나의 우주 (오묘백반 005)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/306/125/87306125_1772506153648_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114034614",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "SNAZZY (스네지)",
+            "title": "Take A Ride",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/313/620/87313620_1772071890718_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114062649",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "리슨 (LYSON)",
+            "title": "벚꽃이 떨어지기 전에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/214/87314214_1772083891794_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065083",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
+        {
+            "artist": "V01D(보이드)",
+            "title": "﻿ROCKROCK(樂樂)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/585/87314585_1772183676049_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114067166",
+            "found_at": "2026-03-04 12:50",
+            "is_tracked": false
+        },
         {
             "artist": "EVERGLOW (에버글로우)",
             "title": "CODE",
