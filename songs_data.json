@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-08 12:53:10",
+    "updated_at": "2026-03-08 17:44:11",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,126 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "석매튜 (ZEROBASEONE) & 김태래 (ZEROBASEONE) & 박건욱 (ZEROBASEONE)",
+            "title": "방과후 태리쌤 OST Part 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/342/270/87342270_1772699496941_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114163915",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "아샤트리",
+            "title": "그래 늦지 않았어 (2026 여자 Ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/032/87341032_1772680772311_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114159341",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "스윗소로우 (SWEET SORROW)",
+            "title": "PALM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/342/244/87342244_1772698292940_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114163783",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤마치 (MRCH)",
+            "title": "미혼남녀의 효율적 만남 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/344/87338344_1772705467033_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114150525",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": true
+        },
+        {
+            "artist": "윤원",
+            "title": "그대가 나를 본다면 X BY CHANCE PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/025/87338025_1772610846761_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114149455",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "류 (Ryu)",
+            "title": "반복",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/305/502/87305502_1771916829990_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114031343",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "김기태",
+            "title": "만취",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/345/979/87345979_1772784996179_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176169",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "HANZ & 권인서",
+            "title": "그리워 그리워서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/342/206/87342206_1772697106186_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114163605",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "정수민",
+            "title": "찬란한 너의 계절에 OST Part.5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/849/87341849_1772777084234_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114162131",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "OSUM (오썸)",
+            "title": "수면티켓",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/341/899/87341899_1772691997633_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114162243",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지민",
+            "title": "넌 내꺼 넌 내 남자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/337/931/87337931_1772705241598_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114149124",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "이지호 & 마현권",
+            "title": "난장이가 쏘아올린 작은 공",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/332/937/87332937_1772526994500_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114132470",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "리진",
+            "title": "나의 모든 날들이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/343/996/87343996_1772758911651_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114170089",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "어느새 봄날은 가고",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/340/465/87340465_1772673127309_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114157688",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
+        {
+            "artist": "임찬",
+            "title": "바람같은 청춘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/517/87344517_1772766093739_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114171825",
+            "found_at": "2026-03-08 17:44",
+            "is_tracked": false
+        },
         {
             "artist": "김시원",
             "title": "흔해 빠진 사랑 노래",
