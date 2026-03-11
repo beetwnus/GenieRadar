@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-11 12:52:47",
+    "updated_at": "2026-03-11 17:59:52",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "YENA (최예나)",
+            "title": "LOVE CATCHER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/346/195/87346195_1772787097585_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176738",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": true
+        },
+        {
+            "artist": "양정승 (Kiroy Y)",
+            "title": "밤하늘의 별을 14",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/745/87356745_1773045105366_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114207862",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "우예린",
+            "title": "기억의 실마리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/361/606/87361606_1773119232020_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114221970",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "Baby DONT Cry",
+            "title": "Shapeshifter",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/034/87362034_1773129706834_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114223453",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "AtHeart (앳하트)",
+            "title": "Butterfly Doors",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/362/006/87362006_1773129095126_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114223327",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "빌리어코스티",
+            "title": "노놀 VOL 80. 빌리어코스티 ' Credits '",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/355/875/87355875_1773121918945_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114203857",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "차우 (Chawoo)",
+            "title": "arrrt.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/319/87356319_1773037052380_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114205887",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "IN A MINUTE",
+            "title": "［Who Do You Love? : I Need You］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/345/497/87345497_1773111986374_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114174919",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "V01D(보이드)",
+            "title": "01",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/355/978/87355978_1773111447563_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114204276",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "Hukky Shibaseki & LO VOLF",
+            "title": "PAIN (Feat. 최성)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/360/484/87360484_1773191170665_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114217647",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
+        {
+            "artist": "SKINZ (스킨즈)",
+            "title": "SKINZ 1st Mini Album ［SKINZ IS SKINZ］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/220/000/87220000_1773204587413_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114223705",
+            "found_at": "2026-03-11 17:59",
+            "is_tracked": false
+        },
         {
             "artist": "ROSESIA (로즈시아)",
             "title": "B.O.M",
