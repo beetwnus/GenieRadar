@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-12 12:57:05",
+    "updated_at": "2026-03-12 18:00:31",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,70 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "ODD YOUTH (오드유스)",
+            "title": "ODD YOUTH 2nd Single ［Babyface］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/744/87356744_1773045097659_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114207859",
+            "found_at": "2026-03-12 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "몬트 (M.O.N.T)",
+            "title": "Keep It Slow",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/361/790/87361790_1773123699148_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114222554",
+            "found_at": "2026-03-12 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "P1Harmony",
+            "title": "UNIQUE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/367/204/87367204_1773214591680_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114240151",
+            "found_at": "2026-03-12 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "TRADE L",
+            "title": "emoji",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/361/168/87361168_1773114127541_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114220353",
+            "found_at": "2026-03-12 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "민하",
+            "title": "너의 하루는 어떠니",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/367/168/87367168_1773213991774_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114239944",
+            "found_at": "2026-03-12 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "ODEE",
+            "title": "PIPE DOWN",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/780/87317780_1772676908210_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114082220",
+            "found_at": "2026-03-12 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "하하",
+            "title": "키 작은 꼬마 이야기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/367/205/87367205_1773214600489_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114240157",
+            "found_at": "2026-03-12 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "16",
+            "title": "Not Anymore",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/070/640/87070640_1773277771509_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113150988",
+            "found_at": "2026-03-12 18:00",
+            "is_tracked": false
+        },
         {
             "artist": "더 웜스",
             "title": "［나는 SOLO］ OST part.6",
