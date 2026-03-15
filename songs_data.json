@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-15 13:13:49",
+    "updated_at": "2026-03-15 17:49:13",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "홍이삭",
+            "title": "방과후 태리쌤 OST Part 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/365/634/87365634_1773193953994_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114234092",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "류민희",
+            "title": "이별을 왜 혼자서 하나요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/088/87372088_1773294494565_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254940",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "지아",
+            "title": "그녀를 사랑해줘요(그 사람을 사랑해줘요)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/145/87372145_1773295605070_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114255102",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "허성현 (Huh)",
+            "title": "2lateeee",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/366/498/87366498_1773383389732_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114237476",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "차가을",
+            "title": "흔한 이별",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/360/643/87360643_1773207093050_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114218641",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "마크툽 (Maktub)",
+            "title": "청춘의 일렉트로니카 (Future Acoustic)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/371/983/87371983_1773312887277_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254692",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "투앤비 (2NB)",
+            "title": "칵테일 사랑",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/905/87372905_1773306716049_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114257516",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "siso (시소)",
+            "title": "1972",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/024/87372024_1773294127640_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254812",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": true
+        },
+        {
+            "artist": "여지영",
+            "title": "DANCE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/317/890/87317890_1773020532326_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114082673",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "정동원 (JD1)",
+            "title": "그대는 나의 모든 것 (from 사랑을 처방해 드립니다 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/365/819/87365819_1773196293205_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114234978",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "HYNN (박혜원)",
+            "title": "미혼남녀의 효율적 만남 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/365/852/87365852_1773298870048_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114235284",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "호시",
+            "title": "아기자기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/369/87375369_1773360738489_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114265085",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "JUNE",
+            "title": "MY BLUE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/259/292/87259292_1773297278264_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114255342",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
+        {
+            "artist": "LUCY",
+            "title": "하루만 네가 되고 싶어 X LUCY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/371/888/87371888_1773292292026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254453",
+            "found_at": "2026-03-15 17:49",
+            "is_tracked": false
+        },
         {
             "artist": "안경잽이 & 372",
             "title": "문화 2",
