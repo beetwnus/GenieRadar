@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-22 13:00:39",
+    "updated_at": "2026-03-22 17:47:31",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,142 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "도겸",
+            "title": "방과후 태리쌤 OST Part 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/339/87400339_1773903235687_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114346648",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "환희",
+            "title": "사랑은 생명의 꽃",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/330/87400330_1773903138672_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114346636",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "정승환",
+            "title": "미혼남녀의 효율적 만남 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/442/87390442_1773968383729_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114309806",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "oceanfromtheblue",
+            "title": "Luv-fi 2026",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/404/758/87404758_1773976009404_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114359352",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "김기태",
+            "title": "사랑한 후에 (2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/666/87390666_1773902253014_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114310366",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "하진 (HAJIN)",
+            "title": "닥터신 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/401/87400401_1773991261000_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114346856",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "김용빈 & 손빈아 & 천록담 & 춘길 & 최재명 & 남승민 & 추혁진",
+            "title": "청춘아 안녕",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/404/828/87404828_1773977544766_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114359664",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "A＋B",
+            "title": "먼 훗날 우리",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/229/87405229_1773984392092_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114360826",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "21학번",
+            "title": "날아라 펭귄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/404/821/87404821_1773977522188_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114359632",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "9umiko",
+            "title": "Cheese Cake",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/398/702/87398702_1773880942076_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114340703",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "손예지",
+            "title": "우리여야 했던 봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/376/638/87376638_1773988154712_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114269370",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "비몽",
+            "title": "작은섬",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/398/969/87398969_1773884519787_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114341757",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "어나더나잇",
+            "title": "사랑을 외치고 싶어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/134/87395134_1773825077192_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114326335",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "나린 (NARIN)",
+            "title": "대한민국에서 건물주 되는 법 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/395/356/87395356_1773813115192_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114327230",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤민",
+            "title": "신이랑 법률사무소 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/687/87390687_1773736590667_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114310461",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "비투비",
+            "title": "우리 다시",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/404/800/87404800_1773977244306_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114359532",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
+        {
+            "artist": "YEGNY",
+            "title": "찬란한 너의 계절에 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/398/958/87398958_1773991244277_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114341730",
+            "found_at": "2026-03-22 17:47",
+            "is_tracked": false
+        },
         {
             "artist": "김시원",
             "title": "세잎클로버",
