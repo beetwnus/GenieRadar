@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-23 13:14:03",
+    "updated_at": "2026-03-23 18:13:48",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "태비 (Taeb2)",
+            "title": "만났다 헤어졌다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/315/87405315_1773985891527_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114361182",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "B.D.U (비디유)",
+            "title": "Friends to Lovers",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/400/331/87400331_1773903143820_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114346638",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "TWS (투어스) & 24kGoldn",
+            "title": "YOU LIKE IT I LOVE IT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/775/87405775_1773993421765_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114362977",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "유나 (ITZY)",
+            "title": "Ice Cream",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/207/87405207_1773984090987_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114360759",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": true
+        },
+        {
+            "artist": "OWIS",
+            "title": "MUSEUM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/404/843/87404843_1773978106252_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114359763",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "효연 (HYO)",
+            "title": "MOVEURBODY (춤춰)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/841/87405841_1773994531069_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114363336",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "KURO",
+            "title": "SHFY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/390/601/87390601_1773968418162_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114310245",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "LNGSHOT",
+            "title": "Training Day",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/385/87412385_1774229203626_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114383701",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "DAILY:DIRECTION",
+            "title": "ROOMBADOOMBA (The Remixes)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/439/87405439_1773988893000_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114361732",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
+        {
+            "artist": "0WAVE",
+            "title": "u",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/396/336/87396336_1773824228700_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114330246",
+            "found_at": "2026-03-23 18:13",
+            "is_tracked": false
+        },
         {
             "artist": "Super Joy Club",
             "title": "Fall In Peace",
