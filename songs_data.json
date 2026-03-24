@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-24 13:03:25",
+    "updated_at": "2026-03-24 18:09:32",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "puffitboi (퍼핏보이)",
+            "title": "Efímero",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/695/87405695_1773991903816_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114362593",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "선우정아",
+            "title": "클라이맥스 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/260/87405260_1773984493422_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114360907",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "Baby DONT Cry",
+            "title": "The 1st Mini Album ［AFTER CRY］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/523/87413523_1774254999311_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114387750",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "Johnny Stimson",
+            "title": "세이렌 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/381/87412381_1774229194657_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114383681",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "허각",
+            "title": "해바라기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/568/87413568_1774256499012_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114388006",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "도유카 (doyouka)",
+            "title": "lloovvee",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/423/87412423_1774230990842_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114383893",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "다브다 (Dabda)",
+            "title": "Dear Hope",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/396/053/87396053_1774231974296_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114329411",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "ROYDO",
+            "title": "PS5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/431/87412431_1774231890743_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114383946",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
+        {
+            "artist": "한림 (Hanlim)",
+            "title": "(Chapter M Project) 8th Chapter '그거면 돼요'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/284/87413284_1774250947353_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114387070",
+            "found_at": "2026-03-24 18:09",
+            "is_tracked": false
+        },
         {
             "artist": "Zayvo (제이보)",
             "title": "그래서 나는...",
