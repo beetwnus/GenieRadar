@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-03-26 13:16:37",
+    "updated_at": "2026-03-26 18:11:25",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,134 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "SEIN & Gist",
+            "title": "BOYFRIEND",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/271/87417271_1774486675160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114399924",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "#안녕",
+            "title": "이상하다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/311/87423311_1774415502319_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114421009",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "강민",
+            "title": "Free Falling",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/943/87423943_1774424221771_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114423881",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "원슈타인",
+            "title": "everybody dies",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/775/87417775_1774337503617_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114401801",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "ILHOON & PATEKO (파테코)",
+            "title": "Merry go round",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/399/967/87399967_1773897115106_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114345407",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "소수빈",
+            "title": "every!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/934/87423934_1774424198147_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114423831",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이비블루 (BABY BLUE)",
+            "title": "언제나 다시 만나 OST Part. 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/643/87416643_1774318300767_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114397763",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "전유진",
+            "title": "가요 가요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/977/87413977_1774425840849_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114389367",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "DIGNITY (디그니티)",
+            "title": "POINT BLANK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/454/87405454_1774319242052_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114361826",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "Minit",
+            "title": "LOVE AGAIN..?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/736/87416736_1774320108607_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114398049",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "Jimmy Brown",
+            "title": "Do You Need My Love?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/405/648/87405648_1773996961324_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114362477",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "CSR (첫사랑)",
+            "title": "［ASTROCHILD IN THE LONELY PLANET］ CSR(첫사랑) - 숨길 수 없는 맘인걸",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/932/87423932_1774424190691_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114423829",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": true
+        },
+        {
+            "artist": "KOREANGROOVE",
+            "title": "기세 빼면 시체 Remixes",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/325/87413325_1774252290499_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114387181",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "리플리 (RIPLEY)",
+            "title": "BLUE BUNNY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/004/87413004_1774246895737_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114386208",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "12BH",
+            "title": "Take a Breath",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/417/276/87417276_1774402161946_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114399962",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
+        {
+            "artist": "리타(Rita)",
+            "title": "마리와 별난 아빠들 OST Part.23",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/416/577/87416577_1774342166932_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114397586",
+            "found_at": "2026-03-26 18:11",
+            "is_tracked": false
+        },
         {
             "artist": "MilliMax",
             "title": "Yessir",
