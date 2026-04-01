@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-01 13:31:03",
+    "updated_at": "2026-04-01 18:15:34",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "g0nny (거니)",
+            "title": "전날 (who is this woman?)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/423/576/87423576_1774419093070_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114422337",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드밀리 (Kid Milli)",
+            "title": "LOVE$ICK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/150/87448150_1775035339518_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114508779",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "케이시 (Kassy)",
+            "title": "늦은 후회",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/787/87448787_1774945389141_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114510611",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": true
+        },
+        {
+            "artist": "1ANDON (원엔온) & 김필선 & L-like (엘라이크)",
+            "title": "환상통 (幻想)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/446/845/87446845_1774920119624_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114504566",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "KINO",
+            "title": "Lost and Found",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/443/306/87443306_1774925883865_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114494045",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "자두",
+            "title": "봄바람 휘날리고 (Feat. Goheung)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/443/256/87443256_1774856904778_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114493824",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kimmy gone",
+            "title": "CHU♡",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/794/87448794_1774945590870_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114510664",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "WOOKI",
+            "title": "wheredidthingsstarttogowrong?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/446/786/87446786_1774919492404_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114504391",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "마야",
+            "title": "기분이 아주 꽃같네",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/536/87433536_1774848048937_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114458254",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZIN CHOI & 사턴코",
+            "title": "SIDE-B",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/412/772/87412772_1774592806041_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114385074",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "MESSYBAE",
+            "title": "0",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/446/791/87446791_1774919502837_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114504397",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "지세희",
+            "title": "사악한 공작 영애의 우울 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/442/846/87442846_1774943334918_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114492495",
+            "found_at": "2026-04-01 18:15",
+            "is_tracked": false
+        },
         {
             "artist": "Yunu",
             "title": "heyum (swim) (feat. 형선 (HYNGSN))",
