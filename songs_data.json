@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-03 13:15:42",
+    "updated_at": "2026-04-03 18:02:35",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "박효신",
+            "title": "A & E",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/973/87433973_1775122476578_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114459696",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "T.O.P",
+            "title": "TOP SPOT - 다중관점 (ANOTHER DIMENSION)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/781/87458781_1775121706644_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114545908",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "박지원 (프로미스나인)",
+            "title": "신이랑 법률사무소 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/452/913/87452913_1775014322248_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114524123",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "용용 (YongYong)",
+            "title": "Vivienne Girl_D",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/312/87447312_1775100242950_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114506125",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "정훈",
+            "title": "DTT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/428/687/87428687_1774514533327_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114439599",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "숙희",
+            "title": "의미 없는 달력만 넘기다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/947/87453947_1775031097045_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528301",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "동현",
+            "title": "Happy Death Day",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/251/87454251_1775036193126_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114529883",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "0siggy",
+            "title": "YESSIR",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/457/434/87457434_1775097121219_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114540691",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "조째즈",
+            "title": "화양연화 pt.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/682/87458682_1775119924873_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114545586",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "이석주",
+            "title": "Too Late to Love",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/921/87453921_1775101485388_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114528151",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "LOOPPOINT",
+            "title": "medicines effect",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/261/87454261_1775036493736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114529916",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤세연",
+            "title": "꽃구경 갑시다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/257/87447257_1775034298816_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114505964",
+            "found_at": "2026-04-03 18:02",
+            "is_tracked": false
+        },
         {
             "artist": "Tray B",
             "title": "쇼미더머니 12 Final",
