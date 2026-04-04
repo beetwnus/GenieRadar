@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-04 13:01:04",
+    "updated_at": "2026-04-04 17:54:01",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "정서주",
+            "title": "봄 꽃놀이가요 (from 사랑을 처방해 드립니다 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/452/441/87452441_1775008307968_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114522278",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "Royal 44",
+            "title": "Checkmate",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/079/87454079_1775033495022_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114529291",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "마크툽 (Maktub)",
+            "title": "내가 죽으려고 생각한 것은 僕ぼくが死しのうと思おもったのは",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/025/87448025_1775100252457_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114508419",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "모브닝 (MOVNING)",
+            "title": "표류일기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/014/87462014_1775199178767_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557293",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "이주연",
+            "title": "Noise in Sync - Theme Song",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/959/87461959_1775198845307_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557156",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "모유진",
+            "title": "내 안에 호수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/447/87461447_1775182290583_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114555218",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "조문근",
+            "title": "사악한 공작 영애의 우울 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/448/356/87448356_1775113273443_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114509550",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "해라",
+            "title": "팔레트",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/036/87462036_1775199390523_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557360",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "박효신",
+            "title": "A & E",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/973/87433973_1775122476578_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114459696",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "T.O.P",
+            "title": "TOP SPOT - 다중관점 (ANOTHER DIMENSION)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/781/87458781_1775121706644_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114545908",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
+        {
+            "artist": "박지원 (프로미스나인)",
+            "title": "신이랑 법률사무소 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/452/913/87452913_1775014322248_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114524123",
+            "found_at": "2026-04-04 17:54",
+            "is_tracked": false
+        },
         {
             "artist": "구본겸 (RB NINE)",
             "title": "What's Good (feat. 노윤하)",
