@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-06 13:33:21",
+    "updated_at": "2026-04-06 18:19:38",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "하현상",
+            "title": "New Boat",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/080/87454080_1775033499584_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114529299",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "KickFlip (킥플립)",
+            "title": "My First Kick",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/780/87344780_1775439324524_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114554372",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "KISS OF LIFE",
+            "title": "Who is she",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/340/87462340_1775207815736_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114558560",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": true
+        },
+        {
+            "artist": "신미래",
+            "title": "딱! 찍어주세요.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/060/87462060_1775200290763_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557421",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "솔라 (마마무)",
+            "title": "우리는 매일매일 OST Part.7 – 나의 바람은",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/449/846/87449846_1775106589448_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114514168",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "식케이 (Sik-K) & Lil Moshpit",
+            "title": "PUBLIC ENEMIES",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/353/87462353_1775209290773_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114558578",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "MW:MEU (뮤)",
+            "title": "Paper Plane",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/620/87461620_1775188036202_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114556006",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "주영",
+            "title": "Sex Genius",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/307/87458307_1775185216722_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114543983",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "BLUHWA (블루화)",
+            "title": "X ARTIST 02.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/447/985/87447985_1775007562276_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114508205",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "롤링쿼츠 (Rolling Quartz)",
+            "title": "Roll the dice",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/083/87458083_1775113758050_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114543142",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "YANN & DAUL",
+            "title": "Black Out",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/093/87458093_1775113763381_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114543163",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "유정(Kim Yujeong)",
+            "title": "Beautiful Sunlight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/462/221/87462221_1775203037731_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114557994",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "19990619",
+            "title": "알 수 있어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/443/012/87443012_1775193320181_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114492914",
+            "found_at": "2026-04-06 18:19",
+            "is_tracked": false
+        },
         {
             "artist": "초림",
             "title": "Have a good Sunday!",
