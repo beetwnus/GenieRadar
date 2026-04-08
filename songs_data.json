@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-08 13:20:49",
+    "updated_at": "2026-04-08 18:17:18",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "RESCENE (리센느)",
+            "title": "Runaway",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/458/490/87458490_1775115096303_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114544535",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": true
+        },
+        {
+            "artist": "가호 (Gaho)",
+            "title": "To Mars",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/768/87471768_1775468199181_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114587558",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "hrtz.wav (하츠웨이브)",
+            "title": "The First Wave",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/650/87475650_1775550090958_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114599397",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "KEYVITUP",
+            "title": "1ST EP ALBUM ［KEYVITUP］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/413/175/87413175_1774249071019_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114386685",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "이사배",
+            "title": "SPECTRUM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/474/360/87474360_1775526095252_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114595171",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "앰퍼샌드원 (AMPERS&ONE)",
+            "title": "DEFINITION",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/664/87475664_1775550168271_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114599471",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "W3WAY (위웨이)",
+            "title": "우리, 봄",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/474/812/87474812_1775532690681_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114596492",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "강승식",
+            "title": "Sur(fp)hase",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/471/563/87471563_1775463113308_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114586826",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "KURO",
+            "title": "Mayday!",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/474/130/87474130_1775563816517_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114594602",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "Original Love & 까데호",
+            "title": "From a South Island",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/504/87453504_1775544949482_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114526546",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "셀린 (Celine)",
+            "title": "고래 낙하",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/492/87475492_1775546809549_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598957",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "soopie",
+            "title": "노놀 VOL 84. soopie ' murmur '",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/310/87461310_1775551349919_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114554539",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "강찬",
+            "title": "낙관적 허무주의",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/433/978/87433978_1774851663560_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114459705",
+            "found_at": "2026-04-08 18:17",
+            "is_tracked": false
+        },
         {
             "artist": "김창훈",
             "title": "컵 (Cup) 〈산울림 50주년 기념 프로젝트〉",
