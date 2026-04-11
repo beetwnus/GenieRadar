@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-11 00:06:48",
+    "updated_at": "2026-04-11 13:03:58",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,230 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "노아주다 (noahjooda) & hu57la",
+            "title": "살아 (Goodbye)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/827/87484827_1775713899182_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114630938",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "이츠",
+            "title": "안녕",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/480/178/87480178_1775628709321_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114614946",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "Woolenciah",
+            "title": "Chocolate",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/986/87484986_1775715390642_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631403",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "PULL UP 22",
+            "title": "#FREEPULLUP22",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/491/87475491_1775546802912_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598956",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "춘길",
+            "title": "금타는 금요일 PART16",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/816/87484816_1775713792061_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114630905",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "시호",
+            "title": "월화수목금토일이 설레",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/121/87484121_1775701714706_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114628957",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "상여자들",
+            "title": "한병 더",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/538/87475538_1775796641947_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114599068",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "포커즈 (F.CUZ)",
+            "title": "봄이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/481/710/87481710_1775723989989_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114620227",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "리디아 (Lydia)",
+            "title": "난 이제 사랑을 못할 것 같아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/485/066/87485066_1775729515981_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631737",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "DANNY",
+            "title": "멀리(Far Away)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/084/87484084_1775701353614_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114628863",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "강성희",
+            "title": "둘이 같이 걷자",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/481/175/87481175_1775723071231_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114618383",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "강승모",
+            "title": "몰래 (Stealthily)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/144/87484144_1775704892149_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114629003",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "The Smir",
+            "title": "222",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/485/87475485_1775782593850_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598896",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "ONE OFF (원오프)",
+            "title": "Fireworks",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/461/111/87461111_1775703058762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114553931",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "서정덕",
+            "title": "다시 몇 번의 봄이 와도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/479/213/87479213_1775712882432_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114611643",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "유란",
+            "title": "U1952136",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/479/220/87479220_1775788062306_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114611704",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "넬 (NELL)",
+            "title": "상실의 관성",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/479/222/87479222_1775616713418_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114611719",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "신해경",
+            "title": "아주 쉽고 간편한",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/708/87475708_1775551362784_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114599618",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "DIMO REX",
+            "title": "ANTIDOTE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/311/87475311_1775641139737_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114598276",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "분리수거밴드 (BLSG)",
+            "title": "겁나 사랑한다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/481/142/87481142_1775641590706_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114618318",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "응답하라 하이스쿨",
+            "title": "응답하라 하이스쿨 OST (2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/860/87484860_1775713944805_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114631028",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "강민정",
+            "title": "뭐하십니까",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/453/173/87453173_1775699267292_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114525207",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "OXYNOVA",
+            "title": "First Name",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/809/87484809_1775713590829_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114630861",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "태비 (Taeb2)",
+            "title": "우리 그냥 사랑하면 안될까? (Feat. HOON) (Prod. dnss)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/480/816/87480816_1775635902795_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114617282",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "Lady Gaga & Doechii",
+            "title": "Runway",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/487/544/87487544_1775844994606_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114640166",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "KATSEYE",
+            "title": "PINKY UP",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/484/834/87484834_1775713900998_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114630961",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "코다 브릿지 (CODA BRIDGE)",
+            "title": "화병",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/480/053/87480053_1775627498255_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114614508",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "chicken97",
+            "title": "Woman",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/454/148/87454148_1775034711267_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114529580",
+            "found_at": "2026-04-11 13:03",
+            "is_tracked": false
+        },
         {
             "artist": "ZENE THE ZILLA (제네 더 질라) & Hash Swan & Nosun",
             "title": "AMBITION 4/10",
