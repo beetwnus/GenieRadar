@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-14 13:31:44",
+    "updated_at": "2026-04-14 18:40:15",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,70 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "소수빈",
+            "title": "유미의 세포들 시즌3 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/233/87498233_1776047509025_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114675236",
+            "found_at": "2026-04-14 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "DXMON (다이몬)",
+            "title": "HYPER LINK: Vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/052/87498052_1776041228153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114674417",
+            "found_at": "2026-04-14 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "우원재 (Woo)",
+            "title": "mp3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/499/059/87499059_1776067294899_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114678114",
+            "found_at": "2026-04-14 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kid Wine & 휘 (HWII)",
+            "title": "키휘",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/103/87498103_1776042690871_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114674574",
+            "found_at": "2026-04-14 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "이예린",
+            "title": "네버네버랜드",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/414/87488414_1776075119215_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114643774",
+            "found_at": "2026-04-14 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "하림",
+            "title": "달리기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/499/030/87499030_1776067064197_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114678018",
+            "found_at": "2026-04-14 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "오션 (5tion)",
+            "title": "그대 편이에요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/488/449/87488449_1775797595922_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114644086",
+            "found_at": "2026-04-14 18:40",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "그대 곁이면 어디든지 좋아요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/171/87498171_1776132947728_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114674924",
+            "found_at": "2026-04-14 18:40",
+            "is_tracked": false
+        },
         {
             "artist": "미우",
             "title": "heavy hearted",
