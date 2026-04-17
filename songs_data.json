@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-17 13:35:28",
+    "updated_at": "2026-04-17 18:34:53",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "범진",
+            "title": "나는 봄 너는 꽃",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/508/975/87508975_1776238466186_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114708114",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "김필",
+            "title": "신이랑 법률사무소 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/502/172/87502172_1776134842749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114686793",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "YB (윤도현 밴드)",
+            "title": "YB Mastered 3.1 LIVE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/498/87511498_1776302214512_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114718290",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "BOYNEXTDOOR",
+            "title": "21세기 대군부인 OST Part.3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/350/87512350_1776327997037_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721153",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "규빈 (GYUBIN)",
+            "title": "Flower (한류 시작 20th 프로젝트 Part.7)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/330/87512330_1776327725619_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114721072",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": true
+        },
+        {
+            "artist": "D82",
+            "title": "LUMINOUS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/669/87511669_1776307606350_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114718953",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "The Vignettes",
+            "title": "우주빵집 OST part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/503/069/87503069_1776148330443_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114689527",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "쿠빈 (KUBIN)",
+            "title": "어른이 되어버린 소녀는",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/508/388/87508388_1776323909735_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114706031",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "비올라 (VIOLA)",
+            "title": "로맨스의 절댓값 OST Part 1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/509/811/87509811_1776249692479_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114711491",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "정연주",
+            "title": "완벽한 플러팅",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/151/87512151_1776322890742_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720630",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
+        {
+            "artist": "무드 (Mood)",
+            "title": "바보",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/465/815/87465815_1775563930104_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114569354",
+            "found_at": "2026-04-17 18:34",
+            "is_tracked": false
+        },
         {
             "artist": "Xdinary Heroes",
             "title": "DEAD AND",
