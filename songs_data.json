@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-18 13:16:48",
+    "updated_at": "2026-04-18 18:00:57",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "김희재",
+            "title": "별보다 예쁜 당신 (from 사랑을 처방해 드립니다 OST Part 7)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/509/395/87509395_1776243108389_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114709416",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "그리오 (GRIO)",
+            "title": "TINY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/512/110/87512110_1776321092255_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114720438",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "RIIZE",
+            "title": "21세기 대군부인 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/567/87515567_1776400914442_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114730822",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "디에이드 (The Ade)",
+            "title": "아릿하다, 너라는 기억은",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/514/915/87514915_1776390999511_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114728913",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "아우릴고트 (OUREALGOAT)",
+            "title": "간격",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/511/518/87511518_1776303690927_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114718469",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "듀스 (DEUX)",
+            "title": "또 하루",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/215/021/87215021_1776314958684_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113725353",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "mono thinking.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/475/517/87475517_1776403149566_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114599014",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "장희원",
+            "title": "inspiration: 괜찮아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/515/891/87515891_1776405702868_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114731689",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "ONDA (온다)",
+            "title": "왜 자꾸 생각나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/498/907/87498907_1776160610510_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114677702",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
+        {
+            "artist": "박준성",
+            "title": "That's MY WAY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/507/272/87507272_1776307230432_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114702158",
+            "found_at": "2026-04-18 18:00",
+            "is_tracked": false
+        },
         {
             "artist": "bluebluebird",
             "title": "GOODBYEMYLOVE",
