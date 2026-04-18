@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-04-18 18:00:57",
+    "updated_at": "2026-04-18 23:53:44",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -1010,14 +1010,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/164/475/87164475_1768894350753_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113512089",
             "found_at": "2026-01-21 17:46",
-            "is_tracked": true
-        },
-        {
-            "artist": "케이시 (Kassy)",
-            "title": "은애하는 도적님아 OST Part 3",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/146/396/87146396_1768368824837_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113445161",
-            "found_at": "2026-01-18 23:16",
             "is_tracked": true
         }
     ]
