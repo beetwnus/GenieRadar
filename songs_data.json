@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-02 13:43:32",
+    "updated_at": "2026-05-02 18:10:13",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "나상현씨밴드",
+            "title": "저문",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/541/164/87541164_1776934375097_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114814278",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "쇼빈",
+            "title": "살겠다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/108/87561108_1777362786101_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114879212",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "hrtz.wav (하츠웨이브)",
+            "title": "21세기 대군부인 OST Part.8",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/689/87570689_1777512445635_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114910864",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "서영주 (너드커넥션)",
+            "title": "모두가 자신의 무가치함과 싸우고 있다 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/479/87567479_1777452109142_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114899169",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "미담",
+            "title": "버스킹",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/558/683/87558683_1777436305582_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114872051",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "김신의",
+            "title": "Noise in Sync - Theme Song",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/568/87566568_1777438679762_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896150",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "LYSHONAIR(리시온에어)",
+            "title": "PICK UP",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/615/87565615_1777425709417_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114892489",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "PJX",
+            "title": "Fly to you",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/198/87567198_1777448587031_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114898275",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "Kosmoz & 동박사",
+            "title": "Drive-Thru",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/560/639/87560639_1777430447659_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114878076",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "xiihu (시후)",
+            "title": "Residue",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/536/652/87536652_1777453120804_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114796145",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "HAN",
+            "title": "MEELBANIP",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/559/485/87559485_1777539395802_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114874891",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
+        {
+            "artist": "라네스터 (Lanester)",
+            "title": "_여전히",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/556/519/87556519_1777449117191_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114864188",
+            "found_at": "2026-05-02 18:10",
+            "is_tracked": false
+        },
         {
             "artist": "eJe",
             "title": "Lead Me to the Rock",
@@ -898,14 +994,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/064/87207064_1769757732271_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113695613",
             "found_at": "2026-02-02 18:07",
-            "is_tracked": true
-        },
-        {
-            "artist": "케이시 (Kassy)",
-            "title": "그댈 위한 사랑",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/191/444/87191444_1769583680554_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113622053",
-            "found_at": "2026-02-01 17:45",
             "is_tracked": true
         }
     ]
