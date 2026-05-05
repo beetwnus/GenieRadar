@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-05 13:49:43",
+    "updated_at": "2026-05-05 18:55:29",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "앤톤 (ANTON)",
+            "title": "유미의 세포들 시즌3 OST Part 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/899/87570899_1777515096232_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114911488",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Royal 44",
+            "title": "I Been Freestyle",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/981/87570981_1777516329752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114911808",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "이하이",
+            "title": "2 EASY 2 BE HON2ST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/562/117/87562117_1777372968349_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114881580",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "이석훈",
+            "title": "LEESEOKHOON Digital Single '우리 다정한 동화 속에 주인공이 되어'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/682/87570682_1777512439503_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114910857",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "16",
+            "title": "Lucky",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/571/118/87571118_1777532800019_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114912491",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "POW (파우)",
+            "title": "WHY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/572/204/87572204_1777865450795_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114915725",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "오연",
+            "title": "선물",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/755/87567755_1777455701051_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114900293",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "민수현 & 천범석",
+            "title": "SM:ALL ROOM Season 02",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/678/87570678_1777512450962_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114910851",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "ZIN CHOI",
+            "title": "UFO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/540/289/87540289_1777453185847_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114811448",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Fresh Air & ARA & partyboypark",
+            "title": "Pro",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/555/935/87555935_1777282623001_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114862330",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
+        {
+            "artist": "Harry jin",
+            "title": "I'm Harry Jin",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/662/87567662_1777454843506_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114900052",
+            "found_at": "2026-05-05 18:55",
+            "is_tracked": false
+        },
         {
             "artist": "MilliMax",
             "title": "milli",
