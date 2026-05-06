@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-06 14:11:50",
+    "updated_at": "2026-05-06 19:19:37",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Wanna One (워너원)",
+            "title": "WE WANNA GO (워너원고 : 백투베이스 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/571/936/87571936_1777531932828_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114914933",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "Billlie (빌리)",
+            "title": "the collective soul and unconscious: chapter two",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/747/87570747_1777876701801_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114911037",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": true
+        },
+        {
+            "artist": "KIIRAS (키라스)",
+            "title": "TA TA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/704/87570704_1777512721680_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114910928",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "eldon",
+            "title": "The comic book Ep.1 : Tango",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/756/87567756_1777455696731_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114900295",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "B:DAWN(비던)",
+            "title": "범(BEOM)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/204/87561204_1777363913484_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114879439",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "볼빨간사춘기",
+            "title": "Someday (from 오늘도 매진했습니다 OST Part 6)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/581/87565581_1777425180094_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114892263",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "쿠기 (Coogie) & 백예린 (Yerin Baek)",
+            "title": "Stuck",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/584/613/87584613_1777883195827_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114954685",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": true
+        },
+        {
+            "artist": "IMO (아이모) & HD BL4CK",
+            "title": "아지랑이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/556/740/87556740_1777540943026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114865045",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "강지원 (Kangziwon)",
+            "title": "Ordinary Ever After",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/209/87529209_1777451065026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114898782",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": false
+        },
+        {
+            "artist": "서열무",
+            "title": "네가 없는 나를 모르겠어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/584/030/87584030_1778032030543_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114952984",
+            "found_at": "2026-05-06 19:19",
+            "is_tracked": false
+        },
         {
             "artist": "조영욱과 사운드트랙킹스",
             "title": "어쩔수가없다 OST",
