@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-07 00:53:26",
+    "updated_at": "2026-05-07 14:17:24",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,230 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "SUDI",
+            "title": "Easy Maybe",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/829/87592829_1778033522631_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114977881",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "하진 (HAJIN)",
+            "title": "In my dreams",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/672/87593672_1778044291733_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114980419",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "조수미 (Sumi Jo)",
+            "title": "CONTINUUM - 40th Anniversary Special Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/183/87594183_1778052402426_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982123",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "선우예권",
+            "title": "Liszt",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/266/87593266_1778036910556_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114978895",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "신진주 (JIN JU)",
+            "title": "천상지애",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/629/87592629_1778031693627_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114977433",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "리베란테 (Libelante)",
+            "title": "날아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/186/87594186_1778052407807_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982140",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "심각한 개구리 & HI BYE NINETEEN(하이 바이 나인틴)",
+            "title": "스트로베리 초코 케이크",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/572/045/87572045_1778055692572_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114915297",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "TOVE",
+            "title": "Into the Tension",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/215/87594215_1778053303088_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982214",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "HAE",
+            "title": "Say My Name (Feat. YOUHA)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/446/87592446_1778029942980_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114976905",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "0do",
+            "title": "눈사람 (feat. seul)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/558/880/87558880_1778037231016_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114872588",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "루빈 & 단일",
+            "title": "슈가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/556/87567556_1778117242023_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114899499",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "Stupinuts",
+            "title": "scene after scene",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/453/87592453_1778029968058_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114976926",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "Canial",
+            "title": "One more luv",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/566/731/87566731_1777441590334_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114896740",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "성리",
+            "title": "무명전설 ［결승 1차 히트곡 미션］",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/594/480/87594480_1778057190777_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114982919",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "Chris Colley",
+            "title": "To The Light",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/627/87592627_1778031695963_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114977431",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "노래하는말괄량이",
+            "title": "Just Do It",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/556/727/87556727_1777449163212_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114864975",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "버려야겠죠 다 지워야겠죠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/572/293/87572293_1778037245519_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114915944",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "Raw Rabbit",
+            "title": "시간을 멈추는 버튼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/571/652/87571652_1777540953403_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114913753",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "리디아 (Lydia)",
+            "title": "사악한 공작 영애의 우울 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/102/87593102_1778057348947_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114978512",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "Wanna One (워너원)",
+            "title": "WE WANNA GO (워너원고 : 백투베이스 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/571/936/87571936_1777531932828_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114914933",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "KIIRAS (키라스)",
+            "title": "TA TA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/570/704/87570704_1777512721680_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114910928",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "eldon",
+            "title": "The comic book Ep.1 : Tango",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/567/756/87567756_1777455696731_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114900295",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "B:DAWN(비던)",
+            "title": "범(BEOM)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/561/204/87561204_1777363913484_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114879439",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "볼빨간사춘기",
+            "title": "Someday (from 오늘도 매진했습니다 OST Part 6)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/565/581/87565581_1777425180094_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114892263",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "IMO (아이모) & HD BL4CK",
+            "title": "아지랑이",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/556/740/87556740_1777540943026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114865045",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "강지원 (Kangziwon)",
+            "title": "Ordinary Ever After",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/529/209/87529209_1777451065026_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114898782",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "서열무",
+            "title": "네가 없는 나를 모르겠어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/584/030/87584030_1778032030543_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114952984",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
+        {
+            "artist": "조영욱과 사운드트랙킹스",
+            "title": "어쩔수가없다 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/571/694/87571694_1777528307553_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114913957",
+            "found_at": "2026-05-07 14:17",
+            "is_tracked": false
+        },
         {
             "artist": "Billlie (빌리)",
             "title": "the collective soul and unconscious: chapter two",
@@ -666,14 +890,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/233/000/87233000_1770347860028_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113790481",
             "found_at": "2026-02-07 17:45",
-            "is_tracked": true
-        },
-        {
-            "artist": "Tame Impala & 제니 (JENNIE)",
-            "title": "Dracula (Remix)",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/218/983/87218983_1770084694179_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113739898",
-            "found_at": "2026-02-06 12:57",
             "is_tracked": true
         }
     ]
