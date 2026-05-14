@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-14 14:30:24",
+    "updated_at": "2026-05-14 19:21:36",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Nosun",
+            "title": "No Way Home",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/489/87616489_1778562698602_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115053828",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "사이먼 도미닉",
+            "title": "ONYX",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/476/87611476_1778663211741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115037843",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "씨야 (SeeYa)",
+            "title": "First, Again",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/110/87625110_1778666499928_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079864",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "Tabber",
+            "title": "New Moon",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/618/166/87618166_1778579625337_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115059174",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "거미 (GUMMY)",
+            "title": "그리운 날 (from 오늘도 매진했습니다 OST Part 9)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/035/87625035_1778665623510_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079611",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "예린 (YERIN)",
+            "title": "너무 예뻐 (예린 (YERIN) X 룰루랄라 프렌즈 2)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/987/87624987_1778664692424_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079508",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": true
+        },
+        {
+            "artist": "베이빌론 (Babylon)",
+            "title": "WALKER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/982/87597982_1778130718233_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114995467",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "블라세 (BLASÉ)",
+            "title": "BLASÉ 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/752/87624752_1778661723223_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115078843",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "하렌 (Haren) & 리플리 (RIPLEY)",
+            "title": "EMPTY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/324/87615324_1778550103635_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115050363",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "박서진",
+            "title": "첫눈에 반해버린 사람아 (Dance ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/090/87625090_1778666234772_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079799",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "키스누",
+            "title": "OOPARTS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/562/87602562_1778665918155_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012313",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "지프크락 (ZIPE KROCK)",
+            "title": "APOPTOSIS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/599/403/87599403_1778481145825_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115000342",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
+        {
+            "artist": "Rude John",
+            "title": "First Love Syndrome",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/189/87615189_1778665548447_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115049939",
+            "found_at": "2026-05-14 19:21",
+            "is_tracked": false
+        },
         {
             "artist": "Placebo Junkies",
             "title": "wayout",
