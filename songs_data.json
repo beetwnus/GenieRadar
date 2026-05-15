@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-15 14:41:10",
+    "updated_at": "2026-05-15 19:29:22",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,118 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "데일로그 (Dailog)",
+            "title": "Cantabile",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/948/87616948_1778567718877_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055357",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "니즈 (NIIZ)",
+            "title": "여행 〈take me anywhere〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/042/87615042_1778547117577_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115049319",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "FIFTY FIFTY",
+            "title": "STARSTRUCK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/595/471/87595471_1778086011496_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114985667",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": true
+        },
+        {
+            "artist": "변우석",
+            "title": "21세기 대군부인 OST Part.11",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/469/87628469_1778726794881_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115092395",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "K2 (김성면)",
+            "title": "삶의 중심에서",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/557/87611557_1778725731451_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115038172",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "엠씨더맥스 (M.C the MAX)",
+            "title": "A Boy From The Moon (2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/462/87628462_1778726554549_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115092378",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "소향",
+            "title": "My Little New Diary. Part 5",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/566/87611566_1778550926193_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115038201",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "기프트 (GIFT)",
+            "title": "원더풀스 (Soundtrack from the Netflix Series)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/000/87617000_1778568413300_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055633",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "Aneuk(아늑)",
+            "title": "Darling",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/397/87628397_1778725593741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115092057",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "니브 (NIve)",
+            "title": "May, be",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/510/87602510_1778763569831_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012146",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "민하",
+            "title": "느낌이 좋아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/629/103/87629103_1778742392235_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115095261",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "아토 (ATO)",
+            "title": "아비달",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/614/927/87614927_1778664414594_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115048879",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "AnnoyingBox",
+            "title": "Second Impact",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/330/87624330_1778738241139_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115077638",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
+        {
+            "artist": "강찬",
+            "title": "Shape of my heart",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/582/429/87582429_1778475807449_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114946965",
+            "found_at": "2026-05-15 19:29",
+            "is_tracked": false
+        },
         {
             "artist": "wave to earth",
             "title": "heaven and hell",
