@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-15 01:12:30",
+    "updated_at": "2026-05-15 14:41:10",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,238 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "wave to earth",
+            "title": "heaven and hell",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/121/87597121_1778117013893_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114992339",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "육중완밴드",
+            "title": "오늘도 나는 악착같이 돈을 번다",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/017/87617017_1778568711049_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055698",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "김아름",
+            "title": "Memories",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/670/87611670_1778482310513_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115038741",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Shakira & Burna Boy",
+            "title": "Dai Dai",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/194/87628194_1778722908522_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115091299",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "다린",
+            "title": "Echo",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/464/87602464_1778765198717_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115011970",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "wshd",
+            "title": "Face to Face",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/617/001/87617001_1778568417169_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055670",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "김가연 (UADZ)",
+            "title": "I.D.O.L BOY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/072/87624072_1778654201259_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115076818",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "이소나 & 박다혜",
+            "title": "미스트롯 : 포유 PART1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/629/763/87629763_1778769075454_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115097334",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "가엘 (에코비)",
+            "title": "너를 기다리고 있어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/839/87616839_1778638958746_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055016",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "뮤지쿡 (MusiCook)",
+            "title": "ReMind & Loading",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/378/87628378_1778725299376_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115091991",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "강유정",
+            "title": "Alone",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/628/365/87628365_1778724994375_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115091938",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "에리즈 (Aries)",
+            "title": "숨결만 남아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/370/87611370_1778664638646_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115037431",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "백식 (Baeksik)",
+            "title": "Crimson Fade",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/592/963/87592963_1778763578656_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114978247",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "홈메이드레코딩",
+            "title": "반반",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/874/87615874_1778738208929_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115051924",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "우이경",
+            "title": "빈 자리만 남고 나는 그대로야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/593/859/87593859_1778723282955_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114981022",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Sad Diminish",
+            "title": "은혜",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/967/87610967_1778725727654_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115035792",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "서준",
+            "title": "말해줄게 (Feat. Ivory)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/922/87616922_1778728822479_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115055281",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Dizzy Blue",
+            "title": "Destiny",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/172/87624172_1778728802535_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115077185",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "하성",
+            "title": "마음읽기",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/516/87602516_1778808805335_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012162",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Nosun",
+            "title": "No Way Home",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/489/87616489_1778562698602_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115053828",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "사이먼 도미닉",
+            "title": "ONYX",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/476/87611476_1778663211741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115037843",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "씨야 (SeeYa)",
+            "title": "First, Again",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/110/87625110_1778666499928_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079864",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "Tabber",
+            "title": "New Moon",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/618/166/87618166_1778579625337_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115059174",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "거미 (GUMMY)",
+            "title": "그리운 날 (from 오늘도 매진했습니다 OST Part 9)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/035/87625035_1778665623510_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079611",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "베이빌론 (Babylon)",
+            "title": "WALKER",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/597/982/87597982_1778130718233_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114995467",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "블라세 (BLASÉ)",
+            "title": "BLASÉ 2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/624/752/87624752_1778661723223_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115078843",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "하렌 (Haren) & 리플리 (RIPLEY)",
+            "title": "EMPTY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/324/87615324_1778550103635_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115050363",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "박서진",
+            "title": "첫눈에 반해버린 사람아 (Dance ver.)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/090/87625090_1778666234772_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115079799",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
+        {
+            "artist": "키스누",
+            "title": "OOPARTS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/562/87602562_1778665918155_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115012313",
+            "found_at": "2026-05-15 14:41",
+            "is_tracked": false
+        },
         {
             "artist": "예린 (YERIN)",
             "title": "너무 예뻐 (예린 (YERIN) X 룰루랄라 프렌즈 2)",
@@ -666,14 +898,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/248/937/87248937_1770684774802_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113845703",
             "found_at": "2026-02-16 13:10",
-            "is_tracked": true
-        },
-        {
-            "artist": "YEIN",
-            "title": "Trouble",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/206/863/87206863_1770945585300_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=113694799",
-            "found_at": "2026-02-14 12:51",
             "is_tracked": true
         }
     ]
