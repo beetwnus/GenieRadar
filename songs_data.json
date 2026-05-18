@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-18 15:04:26",
+    "updated_at": "2026-05-18 20:46:49",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "ZEROBASEONE (제로베이스원)",
+            "title": "Ascend-",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/602/818/87602818_1778229097653_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115013398",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "태양",
+            "title": "QUINTESSENCE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/774/87632774_1778831531466_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115108521",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "태용 (TAEYONG)",
+            "title": "WYLD - The 1st Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/615/494/87615494_1778836719031_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115050841",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "ITZY (있지)",
+            "title": "Motto",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/621/87632621_1778830396872_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115108012",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": true
+        },
+        {
+            "artist": "반가희",
+            "title": "사랑을 잃어버린 나",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/256/87632256_1778827950003_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115106905",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "박재범 & LNGSHOT",
+            "title": "4SHOBOIZ Vol. 2: 4SHOVILLE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/131/87598131_1778829050221_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114996068",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "박찬영",
+            "title": "시선",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/611/671/87611671_1778744078752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115038744",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드킹 (Kidd King)",
+            "title": "OUTSIDE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/632/438/87632438_1778823018454_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115107407",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": false
+        },
+        {
+            "artist": "구구 (GuGu)",
+            "title": "노놀 VOL 88. 구구 ' SKIP '",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/622/461/87622461_1778825538235_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115071017",
+            "found_at": "2026-05-18 20:46",
+            "is_tracked": false
+        },
         {
             "artist": "심아론",
             "title": "도돌이표",
