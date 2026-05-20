@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-20 14:55:49",
+    "updated_at": "2026-05-20 20:03:05",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,86 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Wanna One (워너원)",
+            "title": "다시, 봄바람 (워너원고 : 백투베이스 OST)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/569/87641569_1779089492507_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115137511",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "DXMON (다이몬)",
+            "title": "HYPER LINK: Vol.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/020/87641020_1779073895893_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115134844",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "PLAVE",
+            "title": "괜찮아 사랑이니까 (from 오늘도 매진했습니다 OST Part 10)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/400/87645400_1779160290968_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115150507",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "비비 (BIBI)",
+            "title": "BUMPA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/662/87646662_1779180702235_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115155667",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": true
+        },
+        {
+            "artist": "로이킴",
+            "title": "다시 불러 봄 - Bloom Again",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/645/690/87645690_1779165718445_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115151691",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤산하",
+            "title": "NO REASON",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/675/87646675_1779180729619_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115155759",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "Blue.D",
+            "title": "Starlight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/625/573/87625573_1778822595146_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115081083",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "박현규",
+            "title": "오로라 (靑春)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/653/87646653_1779180448980_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115155625",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "여지영",
+            "title": "aioné",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/616/511/87616511_1779154610583_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115053962",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
+        {
+            "artist": "란 (Ran)",
+            "title": "널 만나 모든게 달라졌어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/644/811/87644811_1779238243990_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115148293",
+            "found_at": "2026-05-20 20:03",
+            "is_tracked": false
+        },
         {
             "artist": "가비",
             "title": "Bromm, Taki",
