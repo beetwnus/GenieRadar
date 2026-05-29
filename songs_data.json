@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-29 15:01:40",
+    "updated_at": "2026-05-29 20:26:33",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,142 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "벤 & LUCKSMITH",
+            "title": "LUCKSMITH VOL.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/610/87674610_1779786694636_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254465",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "CHEEZE (치즈)",
+            "title": "멋진 신세계 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/618/87678618_1779858708714_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267479",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "송하예",
+            "title": "구독연애 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/515/87673515_1779785809435_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115250494",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "피아노맨",
+            "title": "청혼가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/739/87678739_1779935423168_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267915",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "NMIXX & Anderson .Paak",
+            "title": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/919/87678919_1780031791080_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115268668",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": true
+        },
+        {
+            "artist": "윤종신",
+            "title": "2026 월간 윤종신 등용문 Repair 5월호",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/950/87682950_1779958366429_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285198",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "이소나",
+            "title": "목련",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/707/87681707_1779934666876_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115280913",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "픽보이 (Peakboy)",
+            "title": "Commercial Posh",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/624/87674624_1779934723856_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254527",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "BewhY (비와이)",
+            "title": "POP IS CRYIN'",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/598/742/87598742_1780019668687_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115286208",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "iii (아이아이아이)",
+            "title": "이상한 과자 가게 전천당 OST",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/321/87659321_1779431527955_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115207636",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "이라온",
+            "title": "영원, 그리고 하루 더",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/651/307/87651307_1779612305139_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115172166",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "Milena (밀레나)",
+            "title": "Telescope",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/560/87674560_1779786182792_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254360",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "HD BL4CK",
+            "title": "Confessio",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/052/87659052_1779949204979_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115206437",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "Universe",
+            "title": "THE SO-CALLED LUCK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/690/87673690_1779874812254_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115251070",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "$up! (수피)",
+            "title": "무쓸모의 쓸모",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/281/87674281_1779783099195_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115253583",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "한지예",
+            "title": "우리 사랑은 업데이트 중",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/370/87679370_1779874307059_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270938",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "STB",
+            "title": "We Are The Ganster",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/501/87674501_1779785542599_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115254212",
+            "found_at": "2026-05-29 20:26",
+            "is_tracked": false
+        },
         {
             "artist": "aespa",
             "title": "LEMONADE - The 2nd Album",
