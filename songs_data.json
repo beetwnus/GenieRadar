@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-05-31 15:05:16",
+    "updated_at": "2026-05-31 19:05:42",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,110 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "홍자",
+            "title": "꿀단지 (from 사랑을 처방해 드립니다 OST Part 11)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/038/87683038_1779959844199_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285454",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "지아",
+            "title": "사랑 참...",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/293/87679293_1779871896016_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270717",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "전건호",
+            "title": "내 사람입니다(2026)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/392/87682392_1779950538647_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115283145",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "범진",
+            "title": "나무가 되는 중",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/038/87674038_1779849840933_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252800",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "린 (LYn)",
+            "title": "아이 좋아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/693/87677693_1779847296241_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264177",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "허성현 (rosy)",
+            "title": "Whatta Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/660/065/87660065_1780033041186_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115210100",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "아우릴고트 (OUREALGOAT)",
+            "title": "다른 사람 같은 표정과 말투가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/988/87674988_1779794213484_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115255682",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "장범준",
+            "title": "월말 장범준 '2026년 5월' - 수업시간그녀",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/694/87677694_1779847593096_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264179",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "칸토",
+            "title": "ㅠBACK",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/646/123/87646123_1779612319809_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115153772",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "라코스타 (Lacostar)",
+            "title": "라코 네트워크 3",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/314/87679314_1779873099396_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270771",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Austn (오스틴)",
+            "title": "REBRAND2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/678/740/87678740_1779861094188_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115267917",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "스티피 (STEEPY)",
+            "title": "심호흡 (Breathe)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/658/289/87658289_1779443001431_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115203521",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
+        {
+            "artist": "Raphael (라파엘)",
+            "title": "DISMAS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/669/004/87669004_1779797620724_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115236067",
+            "found_at": "2026-05-31 19:05",
+            "is_tracked": false
+        },
         {
             "artist": "Jio",
             "title": "sunny side up",
