@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-01 16:43:27",
+    "updated_at": "2026-06-01 23:33:22",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,102 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "Catch The Young (캐치더영)",
+            "title": "그대여 왜 떠나가나 〈산울림 50주년 기념 프로젝트〉",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/783/87681783_1779935880950_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281244",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "SHINee (샤이니)",
+            "title": "Atmos - The 6th Mini Album",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/687/330/87687330_1780046235389_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115301447",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "TREASURE (트레저)",
+            "title": "4th MINI ALBUM (NEW WAV)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/694/519/87694519_1780269094260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115323153",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "FIFTY FIFTY",
+            "title": "Imperfect-I'mperfect",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/641/021/87641021_1779073897320_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115134849",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": true
+        },
+        {
+            "artist": "MEOVV (미야오)",
+            "title": "BITE NOW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/901/87685901_1780022511786_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115296691",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "tripleS (트리플에스)",
+            "title": "＜LOVE&POP＞ pt.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/239/87679239_1779870391043_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270402",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": true
+        },
+        {
+            "artist": "채인",
+            "title": "영화 '두껍아 두껍아' Special Track. 4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/151/87682151_1779947205820_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282371",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "이우",
+            "title": "다 괜찮을 거야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/932/87677932_1779850082172_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264906",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "마야",
+            "title": "능소화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/269/87674269_1779788594358_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115253536",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "구피 (Goopy)",
+            "title": "Rousseau",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/605/87682605_1779953678144_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115284035",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "에코비",
+            "title": "우리가 헤어진 이유",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/327/87679327_1779935448423_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115270808",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
+        {
+            "artist": "엑스디 (XD)",
+            "title": "구독연애 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/670/073/87670073_1779850072813_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115239448",
+            "found_at": "2026-06-01 23:33",
+            "is_tracked": false
+        },
         {
             "artist": "DaNTe' (단테)",
             "title": "널 떠나 보낸 날",
@@ -874,14 +970,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/336/847/87336847_1772593892162_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114144781",
             "found_at": "2026-03-05 18:01",
-            "is_tracked": true
-        },
-        {
-            "artist": "EVERGLOW (에버글로우)",
-            "title": "CODE",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/314/363/87314363_1772170751387_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114065811",
-            "found_at": "2026-03-03 18:00",
             "is_tracked": true
         }
     ]
