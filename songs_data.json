@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-03 02:54:18",
+    "updated_at": "2026-06-03 16:26:52",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,230 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "지우근",
+            "title": "어쩔 수 없어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/031/87683031_1779959524063_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285444",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "이은비",
+            "title": "I miss u",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/954/87682954_1779958595339_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115285244",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "aespa & 2Spade",
+            "title": "LEMONADE (2Spade Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/700/187/87700187_1780384505284_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115343599",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": true
+        },
+        {
+            "artist": "뎁트",
+            "title": "Debussy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/695/350/87695350_1780387162296_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115326250",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "Vahn",
+            "title": "널 미워하는 너에게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/654/87679654_1779888097921_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115272286",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "EXIT",
+            "title": "HOLOTYPE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/464/87685464_1780015612207_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115295070",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "최동혁",
+            "title": "I'll Be Your Tree",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/210/87682210_1779949016878_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282564",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "THE 2TOP & March 12",
+            "title": "World Cup Ace",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/539/87677539_1779877303239_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115263749",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "kuwana",
+            "title": "ADIO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/995/87685995_1780024350925_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115297018",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "나무소년",
+            "title": "Ren",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/156/87682156_1780369008785_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282378",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "모닝커피 (Morning Coffee)",
+            "title": "예쁜 추억을 만들래",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/942/87677942_1780020801506_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264927",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "재빈",
+            "title": "우리라는 색으로",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/667/787/87667787_1780369019455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115231661",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "림호",
+            "title": "같은 밤만 반복해",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/655/268/87655268_1779956140765_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115190194",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "한경일",
+            "title": "사악한 공작 영애의 우울 OST Part.9",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/918/87673918_1779850086553_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252406",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "한요한 (Han Yohan)",
+            "title": "고양이송",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/552/87673552_1780383690004_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115250617",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "Mewro",
+            "title": "Nirvana",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/017/87659017_1780392896885_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115206303",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "문석 (Moonsek)",
+            "title": "See? Follow me",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/693/87673693_1779874852395_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115251074",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "케이윌 (K.Will)",
+            "title": "닥터 섬보이 OST Part.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/152/87682152_1779947210187_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115282373",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "성시경",
+            "title": "나의 하루처럼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/695/87677695_1779847596298_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264184",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "XIA (준수)",
+            "title": "GRAVITY",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/694/887/87694887_1780278093530_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115324237",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "XODIAC",
+            "title": "PHANTOM FIRE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/659/039/87659039_1779426708899_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115206373",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "더 파란",
+            "title": "BLUE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/371/87681371_1779930712065_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115279722",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "엔플라잉 (N.Flying)",
+            "title": "환절기 (換節期)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/677/705/87677705_1779847926336_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115264245",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "한올",
+            "title": "넌 내게 사랑이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/310/967/87310967_1780367457260_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115338528",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "Tuesday Beach Club",
+            "title": "너에게 줄게",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/812/87673812_1779872824086_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115251851",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤민서",
+            "title": "지배의 악마",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/801/87682801_1779955986638_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115284616",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "히즈이 (hizui)",
+            "title": "Isn't this love?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/679/070/87679070_1779868313850_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115269618",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
+        {
+            "artist": "밍턴 (Mingturn)",
+            "title": "XXX",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/681/755/87681755_1779935681132_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115281109",
+            "found_at": "2026-06-03 16:26",
+            "is_tracked": false
+        },
         {
             "artist": "안유진 (IVE)",
             "title": "취사병 전설이 되다 OST Part 3",
