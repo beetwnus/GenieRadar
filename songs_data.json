@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-06 14:36:35",
+    "updated_at": "2026-06-06 18:58:44",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "김결",
+            "title": "내 사랑 내 곁에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/961/87708961_1780539090901_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115375607",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "온유 (ONEW)",
+            "title": "멋진 신세계 OST Part.6",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/683/613/87683613_1779972111977_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115287303",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "방용국",
+            "title": "If tomorrow never comes",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/713/87710713_1780644672158_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115381643",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "빈센트블루",
+            "title": "Break the Loop",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/708/973/87708973_1780539122434_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115375636",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "김현중",
+            "title": "치킨이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/021/87715021_1780628810758_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115395086",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "불나방스타쏘세지클럽",
+            "title": "괴물쇼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/307/87710307_1780649985720_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115380428",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "YEGNY",
+            "title": "릴스각",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/709/111/87709111_1780627974136_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115376124",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "준서",
+            "title": "넌 나의 사랑이야",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/959/87715959_1780642591092_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115397620",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
+        {
+            "artist": "장보인",
+            "title": "파도",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/654/87685654_1780383329826_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115295786",
+            "found_at": "2026-06-06 18:58",
+            "is_tracked": false
+        },
         {
             "artist": "이슬기 (HOWUS) & 남제현",
             "title": "Orange Ripple",
@@ -898,14 +970,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/207/064/87207064_1772788347139_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176710",
             "found_at": "2026-03-09 18:06",
-            "is_tracked": true
-        },
-        {
-            "artist": "윤마치 (MRCH)",
-            "title": "미혼남녀의 효율적 만남 OST Part.2",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/338/344/87338344_1772705467033_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114150525",
-            "found_at": "2026-03-08 17:44",
             "is_tracked": true
         }
     ]
