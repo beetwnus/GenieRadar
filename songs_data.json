@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-08 16:20:40",
+    "updated_at": "2026-06-08 21:15:58",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,78 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "izna (이즈나)",
+            "title": "SET THE TEMPO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/714/869/87714869_1780626721646_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115394530",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": true
+        },
+        {
+            "artist": "BOYNEXTDOOR",
+            "title": "HOME",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/610/755/87610755_1780909293560_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115430573",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "루나 (LUNA)",
+            "title": "솜사탕 (Feat. 카일리 of KIIRAS)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/716/247/87716247_1780649519237_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115398680",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "사무엘 (Samuel)",
+            "title": "SAMUELiTO",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/110/87726110_1780885290619_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115430582",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "딘딘 (DINDIN) & 유주 (YUJU)",
+            "title": "사랑인 걸까 (어쩌다보니 천생연분 X 딘딘(DINDIN), 유주(YUJU))",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/709/991/87709991_1780644584749_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115378935",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": true
+        },
+        {
+            "artist": "tripleS (트리플에스)",
+            "title": "＜Baby Flower City Remixes＞",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/716/242/87716242_1780649502006_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115398631",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": true
+        },
+        {
+            "artist": "타루",
+            "title": "구독연애 OST Part.4",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/507/87682507_1780641562228_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115283503",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "1DB (원디비)",
+            "title": "외딴섬",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/685/994/87685994_1780024347902_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115297017",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": false
+        },
+        {
+            "artist": "옐",
+            "title": "Young30(영써티)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/716/623/87716623_1780660599451_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115400473",
+            "found_at": "2026-06-08 21:15",
+            "is_tracked": false
+        },
         {
             "artist": "H//PE Princess (하입프린세스)",
             "title": "DAISY / gOOd! (H//PE P ver.) (KR ver.)",
@@ -882,14 +954,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/346/195/87346195_1772787097585_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176738",
             "found_at": "2026-03-11 17:59",
-            "is_tracked": true
-        },
-        {
-            "artist": "던말릭 (DON MALIK) & Hash Swan",
-            "title": "AMBITION 3/10",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/356/276/87356276_1773035275741_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114205707",
-            "found_at": "2026-03-10 18:00",
             "is_tracked": true
         }
     ]
