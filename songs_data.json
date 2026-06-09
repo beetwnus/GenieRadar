@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-09 14:56:49",
+    "updated_at": "2026-06-09 20:14:49",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,94 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "CHIO CHICANO",
+            "title": "BBOW BBOW",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/321/87710321_1780555894046_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115380502",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "김재환",
+            "title": "닥터 섬보이 OST Part.2",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/686/432/87686432_1780030314259_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115298132",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "EPEX (이펙스)",
+            "title": "EPEX 7th EP Album 소화(韶華) : Epilogue",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/357/87726357_1780906592961_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431687",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "예린 (YERIN)",
+            "title": "REACH YOU",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/709/157/87709157_1780646974160_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115376395",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": true
+        },
+        {
+            "artist": "용용 (YongYong)",
+            "title": "yynitseD",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/711/595/87711595_1780646165276_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115384052",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "박연",
+            "title": "소확행 X BY CHANCE PROJECT",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/179/87726179_1780895195725_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115430920",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "마이티 마우스 (Mighty Mouth)",
+            "title": "톡톡(Tok Tok) (Feat. 딘딘, 소야)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/362/87726362_1780907191236_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431728",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "Ash-B (애쉬비)",
+            "title": "TOUGH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/682/404/87682404_1780625978331_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115283205",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "전유빈",
+            "title": "canyoudomeafavor?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/698/835/87698835_1780963268681_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115337148",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "RYUL",
+            "title": "Fire Tree",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/716/898/87716898_1780676836244_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115401446",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
+        {
+            "artist": "김건",
+            "title": "친구라는 핑계로 (Prod. 링크뮤직)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/098/87726098_1780884400455_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115430533",
+            "found_at": "2026-06-09 20:14",
+            "is_tracked": false
+        },
         {
             "artist": "노르웨이 숲",
             "title": "너는, 꽃",
@@ -882,14 +970,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/344/772/87344772_1773106020244_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114172427",
             "found_at": "2026-03-12 12:57",
-            "is_tracked": true
-        },
-        {
-            "artist": "YENA (최예나)",
-            "title": "LOVE CATCHER",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/346/195/87346195_1772787097585_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114176738",
-            "found_at": "2026-03-11 17:59",
             "is_tracked": true
         }
     ]
