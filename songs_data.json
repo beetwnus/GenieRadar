@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-10 15:16:03",
+    "updated_at": "2026-06-10 20:35:23",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,134 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "언텔 (untell) & Hash Swan & 던말릭 (DON MALIK)",
+            "title": "AMBITION 6/10",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/710/647/87710647_1780559791792_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115381522",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": true
+        },
+        {
+            "artist": "음율",
+            "title": "56번 거리의 뫼르소",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/716/055/87716055_1780644694641_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115398031",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "닐로 (Nilo)",
+            "title": "PANORAMA",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/361/87726361_1780906897937_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431724",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "손태진",
+            "title": "여름 향수",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/732/199/87732199_1780969618485_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115448638",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "제이콥 (THE BOYZ)",
+            "title": "j.",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/733/268/87733268_1780985226428_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115452655",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "JAY B",
+            "title": "TR.EE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/732/194/87732194_1780969594232_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115448619",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "데카당",
+            "title": "RAGE BAITS",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/402/87726402_1780911094323_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431888",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "homezone",
+            "title": "비대칭 컴플렉스",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/367/87726367_1780907202459_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431758",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "이젤 (EJel)",
+            "title": "여름의 방정식",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/084/87715084_1780630895689_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115395373",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "엔분의일",
+            "title": "Open My Eyes",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/700/271/87700271_1780971073616_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115343911",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "김현회",
+            "title": "잔상",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/224/87726224_1780897592423_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431182",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "서열무",
+            "title": "단잠",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/135/87726135_1781067747865_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115430735",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "주대건",
+            "title": "그대에겐 내가 잘 어울려요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/726/232/87726232_1780897916608_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115431203",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "버둥",
+            "title": "나로부터 (Acoustic Live Album)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/695/322/87695322_1780625989100_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115326064",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "수조 (Sujo)",
+            "title": "클로버",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/696/687/87696687_1780908277629_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115330341",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
+        {
+            "artist": "ASEL (아셀)",
+            "title": "Drunk lies",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/691/435/87691435_1780645705878_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115314467",
+            "found_at": "2026-06-10 20:35",
+            "is_tracked": false
+        },
         {
             "artist": "박삐삐",
             "title": "삐삐타임",
