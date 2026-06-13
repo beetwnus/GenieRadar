@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-13 15:05:05",
+    "updated_at": "2026-06-13 19:24:03",
     "tracked_artists": [
         "ADORA",
         "ADYA",
@@ -148,6 +148,62 @@
         "ねぎ塩豚丼"
     ],
     "songs": [
+        {
+            "artist": "천둥",
+            "title": "GLITCH",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/739/027/87739027_1781069644751_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115471678",
+            "found_at": "2026-06-13 19:24",
+            "is_tracked": false
+        },
+        {
+            "artist": "안다은",
+            "title": "멋진 신세계 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/733/151/87733151_1780984349446_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115452349",
+            "found_at": "2026-06-13 19:24",
+            "is_tracked": false
+        },
+        {
+            "artist": "경서예지",
+            "title": "물들어",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/411/87745411_1781156814175_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115493094",
+            "found_at": "2026-06-13 19:24",
+            "is_tracked": false
+        },
+        {
+            "artist": "윤원",
+            "title": "너를 보고 싶은 밤에",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/745/771/87745771_1781163093872_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115494745",
+            "found_at": "2026-06-13 19:24",
+            "is_tracked": false
+        },
+        {
+            "artist": "사민(SAMIN)",
+            "title": "바짝",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/740/253/87740253_1781080910584_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115475942",
+            "found_at": "2026-06-13 19:24",
+            "is_tracked": false
+        },
+        {
+            "artist": "NONEP",
+            "title": "Pixel Down",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/673/971/87673971_1779945512783_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115252623",
+            "found_at": "2026-06-13 19:24",
+            "is_tracked": false
+        },
+        {
+            "artist": "GVNN",
+            "title": "Cry again",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/715/504/87715504_1780994045222_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=115396326",
+            "found_at": "2026-06-13 19:24",
+            "is_tracked": false
+        },
         {
             "artist": "아원 (AWON)",
             "title": "나만이었나",
@@ -906,14 +962,6 @@
             "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/375/503/87375503_1773362501920_1_140x140.JPG/dims/resize/Q_80,0",
             "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114265418",
             "found_at": "2026-03-16 18:14",
-            "is_tracked": true
-        },
-        {
-            "artist": "siso (시소)",
-            "title": "1972",
-            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/372/024/87372024_1773294127640_1_140x140.JPG/dims/resize/Q_80,0",
-            "link": "https://www.genie.co.kr/detail/songInfo?xgnm=114254812",
-            "found_at": "2026-03-15 17:49",
             "is_tracked": true
         }
     ]
