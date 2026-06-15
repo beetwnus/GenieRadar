@@ -32,6 +32,7 @@
             margin: 0;
             padding-top: 70px;
             transition: color 1.5s ease;
+            overflow-x: hidden;
         }
 
         /* === Header === */
@@ -113,63 +114,6 @@
             max-width: 1200px;
             margin: 0 auto;
             padding: 30px;
-        }
-
-        /* === 藝人名單 (Tag Cloud) === */
-        .toggle-btn {
-            background: none;
-            border: 1px solid var(--card-border);
-            color: var(--text-sub);
-            padding: 8px 16px;
-            border-radius: 20px;
-            cursor: pointer;
-            font-size: 13px;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            transition: all 0.3s;
-            margin-bottom: 20px;
-        }
-
-        .toggle-btn:hover {
-            border-color: var(--accent-color);
-            color: var(--accent-color);
-        }
-
-        #artistListContainer {
-            display: none;
-            background-color: var(--card-bg);
-            border: 1px solid var(--card-border);
-            padding: 20px;
-            border-radius: 12px;
-            margin-bottom: 30px;
-            animation: fadeIn 0.3s ease;
-        }
-
-        .artist-tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            max-height: 300px;
-            overflow-y: auto;
-        }
-
-        .artist-tag {
-            background-color: var(--tag-bg);
-            color: var(--text-sub);
-            padding: 6px 12px;
-            border-radius: 6px;
-            font-size: 12px;
-            cursor: pointer;
-            transition: all 0.2s;
-            border: 1px solid transparent;
-        }
-
-        .artist-tag:hover {
-            background-color: var(--tag-hover);
-            color: var(--text-main);
-            border-color: var(--accent-color);
-            transform: translateY(-2px);
         }
 
         /* === Tabs 分頁樣式 === */
@@ -339,7 +283,6 @@
             gap: 6px;
         }
 
-        /* Genie 按鈕 (藍色系) */
         .btn-genie {
             background-color: #1f2937;
             color: #5CC9F5;
@@ -352,7 +295,6 @@
             border-color: #5CC9F5;
         }
 
-        /* === 複製連結按鈕 (低調灰色系) === */
         .btn-copy {
             background-color: #1f2937;
             color: #a0aec0;
@@ -384,36 +326,150 @@
             opacity: 1;
         }
 
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(5px);
-            }
+        /* === 側邊欄 (Sidebar) === */
+        .sidebar-overlay {
+            position: fixed;
+            top: 70px;
+            left: 0;
+            width: 100%;
+            height: calc(100vh - 70px);
+            background: rgba(0,0,0,0.6);
+            z-index: 850;
+            display: none;
+        }
 
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+        .sidebar-overlay.show {
+            display: block;
+        }
+
+        .sidebar {
+            position: fixed;
+            top: 70px;
+            right: -350px;
+            width: 320px;
+            max-width: 85vw;
+            height: calc(100vh - 70px);
+            background-color: var(--card-bg);
+            border-left: 1px solid var(--card-border);
+            transition: right 0.3s ease;
+            z-index: 900;
+            display: flex;
+            flex-direction: column;
+            box-shadow: -5px 0 15px rgba(0,0,0,0.5);
+        }
+
+        .sidebar.open {
+            right: 0;
+        }
+
+        .sidebar-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            border-bottom: 1px solid var(--card-border);
+        }
+
+        .sidebar-header h2 {
+            margin: 0;
+            font-size: 16px;
+            font-family: 'Barlow', sans-serif;
+            color: var(--text-main);
+        }
+
+        .close-btn {
+            background: none;
+            border: none;
+            color: var(--text-sub);
+            font-size: 18px;
+            cursor: pointer;
+            padding: 5px;
+        }
+
+        .close-btn:hover {
+            color: var(--text-main);
+        }
+
+        .sidebar-content {
+            padding: 20px;
+            overflow-y: auto;
+            flex-grow: 1;
+        }
+
+        .category-title {
+            font-size: 15px;
+            color: var(--accent-color);
+            margin: 0 0 12px 0;
+            font-family: 'Barlow', sans-serif;
+            border-bottom: 1px dashed #333;
+            padding-bottom: 5px;
+        }
+
+        .category-section {
+            margin-bottom: 30px;
+        }
+
+        .artist-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .artist-tag {
+            background-color: var(--tag-bg);
+            color: var(--text-sub);
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid transparent;
+        }
+
+        .artist-tag:hover {
+            background-color: var(--tag-hover);
+            color: var(--text-main);
+            border-color: var(--accent-color);
+            transform: translateY(-2px);
+        }
+
+        /* 浮動開啟按鈕 */
+        .sidebar-toggle-btn {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background-color: var(--card-bg);
+            border: 1px solid var(--card-border);
+            color: var(--text-main);
+            padding: 12px 20px;
+            border-radius: 30px;
+            cursor: pointer;
+            z-index: 800;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+            transition: all 0.3s;
+            font-family: 'Barlow', sans-serif;
+            font-size: 14px;
+        }
+
+        .sidebar-toggle-btn:hover {
+            border-color: var(--accent-color);
+            color: var(--accent-color);
+            transform: translateY(-3px);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
         @media (max-width: 600px) {
-            header {
-                padding: 0 15px;
-                gap: 10px;
-            }
-
-            .update-info {
-                display: none;
-            }
-
-            .logo {
-                font-size: 20px;
-                margin-right: 0;
-            }
-
-            .search-container {
-                max-width: 100%;
-            }
+            header { padding: 0 15px; gap: 10px; }
+            .update-info { display: none; }
+            .logo { font-size: 20px; margin-right: 0; }
+            .search-container { max-width: 100%; }
         }
     </style>
 </head>
@@ -429,16 +485,21 @@
         <div class="update-info" id="statusText">Connecting...</div>
     </header>
 
-    <div class="container">
-        <button class="toggle-btn" onclick="toggleArtistList()">
-            <span>📋</span> Show Tracked Artists
-        </button>
+    <div id="sidebarOverlay" class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
-        <div id="artistListContainer">
-            <div style="font-size: 12px; color: #888; margin-bottom: 10px;">Click to search:</div>
-            <div id="artistTags" class="artist-tags"></div>
+    <div id="sidebar" class="sidebar">
+        <div class="sidebar-header">
+            <h2>Tracked Artists</h2>
+            <button class="close-btn" onclick="toggleSidebar()">✖</button>
         </div>
+        <div id="artistTagsContainer" class="sidebar-content"></div>
+    </div>
 
+    <button id="toggleBtn" class="sidebar-toggle-btn" onclick="toggleSidebar()">
+        <span>📋</span> Show Tracked Artists
+    </button>
+
+    <div class="container">
         <div class="tabs" id="mainTabs">
             <button class="tab-btn active" onclick="switchTab('my')">
                 ⭐ My Artists <span id="myCount" class="tab-count">0</span>
@@ -458,14 +519,19 @@
     </div>
 
     <script>
+        function toggleSidebar() {
+            document.getElementById('sidebar').classList.toggle('open');
+            document.getElementById('sidebarOverlay').classList.toggle('show');
+        }
+
         function copyToClipboard(text, btnElement) {
             navigator.clipboard.writeText(text).then(() => {
                 const originalHTML = btnElement.innerHTML;
                 btnElement.innerHTML = '✅ Copied!';
-                btnElement.style.color = '#69DB7C'; // 成功時文字轉綠色
+                btnElement.style.color = '#69DB7C'; 
                 setTimeout(() => { 
                     btnElement.innerHTML = originalHTML; 
-                    btnElement.style.color = ''; // 2秒後恢復原狀
+                    btnElement.style.color = ''; 
                 }, 2000);
             }).catch(err => {
                 console.error('Failed to copy: ', err);
@@ -492,13 +558,10 @@
                 const data = await res.json();
                 document.getElementById('statusText').innerText = `Updated: ${data.updated_at}`;
 
-                if (data.tracked_artists && data.tracked_artists.length > 0) {
-                    // 進行不區分大小寫的自然排序
-                    data.tracked_artists.sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
-                    
+                if (data.tracked_artists && Object.keys(data.tracked_artists).length > 0) {
                     renderArtistList(data.tracked_artists);
                 } else {
-                    document.querySelector('.toggle-btn').style.display = 'none';
+                    document.getElementById('toggleBtn').style.display = 'none';
                 }
 
                 globalSongs = data.songs || [];
@@ -510,23 +573,30 @@
             }
         }
 
-        function toggleArtistList() {
-            const container = document.getElementById('artistListContainer');
-            const btn = document.querySelector('.toggle-btn');
-            if (container.style.display === 'block') {
-                container.style.display = 'none';
-                btn.innerHTML = '<span>📋</span> Show Tracked Artists';
+        function renderArtistList(artistsData) {
+            const container = document.getElementById('artistTagsContainer');
+            let html = '<div style="font-size: 12px; color: #888; margin-bottom: 20px;">Click to search:</div>';
+            
+            // 判斷如果是分類好的 Object 就分區渲染，如果是舊版的 Array 就直接渲染
+            if (!Array.isArray(artistsData) && typeof artistsData === 'object') {
+                for (const [category, artists] of Object.entries(artistsData)) {
+                    html += `<div class="category-section">`;
+                    html += `<h3 class="category-title">${category}</h3>`;
+                    html += `<div class="artist-tags">`;
+                    html += artists.map(artist =>
+                        `<div class="artist-tag" onclick="searchArtist('${artist.replace(/'/g, "\\'")}')">${artist}</div>`
+                    ).join('');
+                    html += `</div></div>`;
+                }
             } else {
-                container.style.display = 'block';
-                btn.innerHTML = '<span>🔼</span> Hide Tracked Artists';
+                html += `<div class="artist-tags">`;
+                html += artistsData.map(artist =>
+                    `<div class="artist-tag" onclick="searchArtist('${artist.replace(/'/g, "\\'")}')">${artist}</div>`
+                ).join('');
+                html += `</div>`;
             }
-        }
-
-        function renderArtistList(artists) {
-            const tagsContainer = document.getElementById('artistTags');
-            tagsContainer.innerHTML = artists.map(artist =>
-                `<div class="artist-tag" onclick="searchArtist('${artist.replace(/'/g, "\\'")}')">${artist}</div>`
-            ).join('');
+            
+            container.innerHTML = html;
         }
 
         function searchArtist(name) {
@@ -534,6 +604,10 @@
             input.value = name;
             filterData();
             window.scrollTo({ top: 0, behavior: 'smooth' });
+            
+            // 點擊後自動關閉側邊欄
+            document.getElementById('sidebar').classList.remove('open');
+            document.getElementById('sidebarOverlay').classList.remove('show');
         }
 
         function switchTab(tabName) {
@@ -621,10 +695,10 @@
                         <div class="action-container">
                             <a href="${song.link}" target="_blank" class="btn-link btn-genie">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
-                                Album
+                                genie
                             </a>
                             <button onclick="copyToClipboard('${song.link}', this)" class="btn-link btn-copy">
-                                📋 Copy Link
+                                📋 Copy
                             </button>
                         </div>
                     </div>`;
