@@ -111,22 +111,10 @@ def scrape_job():
                 for target in MY_ARTISTS:
                     if is_artist_match(target, original_artist_name):
                         is_tracked = True
-                        # 找到匹配的藝人名稱後，可以選擇是否在這裡break，
-                        # 或者讓它繼續跑完以防有多個關鍵字匹配 (視需求而定)
                         break
                 
-                album_link_elem = song.select_one("a.albumtitle")
-                album_href = album_link_elem['href'] if album_link_elem and album_link_elem.get('href') else ''
-                # Extract album ID from href like /detail/albumInfo?axnm=12345678
-                album_id_match = re.search(r'axnm=(\d+)', album_href)
-                if album_id_match:
-                    link = f"https://www.genie.co.kr/detail/albumInfo?axnm={album_id_match.group(1)}"
-                else:
-                    # fallback to song link if album ID not found
-                    link_id = song['songid']
-                    link = f"https://www.genie.co.kr/detail/songInfo?xgnm={link_id}"
-
-                if link in existing_links: continue
+                link_id = song['songid']
+                song_link = f"https://www.genie.co.kr/detail/songInfo?xgnm={link_id}"
 
                 display_artist_name = original_artist_name
                 # 如果有自定義映射名稱
@@ -141,6 +129,20 @@ def scrape_job():
                 if "TITLE" in title: title = title.replace("TITLE", "").strip()
                 if "19금" in title: title = title.replace("19금", "").strip()
 
+                # === 抓取 onclick 裡的專輯 ID ===
+                album_id = ""
+                if album_elem and 'onclick' in album_elem.attrs:
+                    match = re.search(r'fnViewAlbumLayer\((\d+)\)', album_elem['onclick'])
+                    if match:
+                        album_id = match.group(1)
+
+                # === 組成專輯連結 (若沒抓到則退回原本的歌曲連結) ===
+                final_link = f"https://www.genie.co.kr/detail/albumInfo?axnm={album_id}" if album_id else song_link
+
+                # 檢查是否已經抓過 (同時檢查新舊版網址，避免過渡期重複抓取)
+                if song_link in existing_links or final_link in existing_links: 
+                    continue
+
                 img_elem = song.select_one("a.cover img")
                 img_src = "https:" + img_elem['src'] if img_elem else ""
 
@@ -148,7 +150,7 @@ def scrape_job():
                     "artist": display_artist_name,
                     "title": title,
                     "image": img_src,
-                    "link": link,
+                    "link": final_link,
                     "found_at": get_taiwan_time().strftime("%Y-%m-%d %H:%M"),
                     "is_tracked": is_tracked
                 }
