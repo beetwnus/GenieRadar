@@ -333,7 +333,7 @@
             left: 0;
             width: 100%;
             height: calc(100vh - 70px);
-            background: rgba(0, 0, 0, 0.6);
+            background: rgba(0,0,0,0.6);
             z-index: 850;
             display: none;
         }
@@ -355,7 +355,7 @@
             z-index: 900;
             display: flex;
             flex-direction: column;
-            box-shadow: -5px 0 15px rgba(0, 0, 0, 0.5);
+            box-shadow: -5px 0 15px rgba(0,0,0,0.5);
         }
 
         .sidebar.open {
@@ -448,7 +448,7 @@
             display: flex;
             align-items: center;
             gap: 8px;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.5);
             transition: all 0.3s;
             font-family: 'Barlow', sans-serif;
             font-size: 14px;
@@ -461,42 +461,22 @@
         }
 
         @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(5px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
         @media (max-width: 600px) {
-            header {
-                padding: 0 15px;
-                gap: 10px;
-            }
-
-            .update-info {
-                display: none;
-            }
-
-            .logo {
-                font-size: 20px;
-                margin-right: 0;
-            }
-
-            .search-container {
-                max-width: 100%;
-            }
+            header { padding: 0 15px; gap: 10px; }
+            .update-info { display: none; }
+            .logo { font-size: 20px; margin-right: 0; }
+            .search-container { max-width: 100%; }
         }
     </style>
 </head>
 
 <body>
     <header>
-        <div class="logo"><span class="highlight-text">genie</span>radar</div>
+        <div class="logo"><span class="highlight-text">genie</span> radar</div>
         <div class="search-container">
             <span class="search-icon">🔍</span>
             <input type="text" id="searchInput" class="search-input" placeholder="Search artist or song..."
@@ -548,10 +528,10 @@
             navigator.clipboard.writeText(text).then(() => {
                 const originalHTML = btnElement.innerHTML;
                 btnElement.innerHTML = '✅ Copied!';
-                btnElement.style.color = '#69DB7C';
-                setTimeout(() => {
-                    btnElement.innerHTML = originalHTML;
-                    btnElement.style.color = '';
+                btnElement.style.color = '#69DB7C'; 
+                setTimeout(() => { 
+                    btnElement.innerHTML = originalHTML; 
+                    btnElement.style.color = ''; 
                 }, 2000);
             }).catch(err => {
                 console.error('Failed to copy: ', err);
@@ -567,6 +547,7 @@
 
         let globalSongs = [];
         let currentTab = 'my';
+        let artistCategoryMap = {}; // 用來儲存分類名單供後續判斷指令使用
 
         document.addEventListener('DOMContentLoaded', fetchData);
 
@@ -579,6 +560,7 @@
                 document.getElementById('statusText').innerText = `Updated: ${data.updated_at}`;
 
                 if (data.tracked_artists && Object.keys(data.tracked_artists).length > 0) {
+                    artistCategoryMap = data.tracked_artists; // 儲存至全域變數
                     renderArtistList(data.tracked_artists);
                 } else {
                     document.getElementById('toggleBtn').style.display = 'none';
@@ -593,29 +575,53 @@
             }
         }
 
+        // === 新增：用來產生對應分類的複製指令 ===
+        function getCopyCommand(artistName, link) {
+            let cat = null;
+            let textLower = artistName.toLowerCase();
+            
+            for (const [category, artists] of Object.entries(artistCategoryMap)) {
+                for (const target of artists) {
+                    let targetLower = target.toLowerCase();
+                    let isMatch = false;
+                    
+                    // 英文/數字名字做精確邊界檢查，其他做部分包含檢查
+                    if (/^[a-z0-9]+$/.test(targetLower)) {
+                        let regex = new RegExp(`(?:^|[^a-z0-9])${targetLower}(?:$|[^a-z0-9])`);
+                        if (regex.test(textLower)) isMatch = true;
+                    } else {
+                        if (textLower.includes(targetLower)) isMatch = true;
+                    }
+                    
+                    if (isMatch) {
+                        cat = category;
+                        break;
+                    }
+                }
+                if (cat) break;
+            }
+
+            if (cat === 'KR') return `!dl ${link} -sk`;
+            if (cat === 'JP') return `!dl ${link} -jp`;
+            
+            // 如果沒在名單內 (如 Others)，預設單純複製連結
+            return link; 
+        }
+
         function renderArtistList(artistsData) {
             const container = document.getElementById('artistTagsContainer');
             let html = '<div style="font-size: 12px; color: #888; margin-bottom: 20px;">Click to search:</div>';
-
-            // 判斷如果是分類好的 Object 就分區渲染，如果是舊版的 Array 就直接渲染
-            if (!Array.isArray(artistsData) && typeof artistsData === 'object') {
-                for (const [category, artists] of Object.entries(artistsData)) {
-                    html += `<div class="category-section">`;
-                    html += `<h3 class="category-title">${category}</h3>`;
-                    html += `<div class="artist-tags">`;
-                    html += artists.map(artist =>
-                        `<div class="artist-tag" onclick="searchArtist('${artist.replace(/'/g, "\\'")}')">${artist}</div>`
-                    ).join('');
-                    html += `</div></div>`;
-                }
-            } else {
+            
+            for (const [category, artists] of Object.entries(artistsData)) {
+                html += `<div class="category-section">`;
+                html += `<h3 class="category-title">${category}</h3>`;
                 html += `<div class="artist-tags">`;
-                html += artistsData.map(artist =>
+                html += artists.map(artist =>
                     `<div class="artist-tag" onclick="searchArtist('${artist.replace(/'/g, "\\'")}')">${artist}</div>`
                 ).join('');
-                html += `</div>`;
+                html += `</div></div>`;
             }
-
+            
             container.innerHTML = html;
         }
 
@@ -624,7 +630,7 @@
             input.value = name;
             filterData();
             window.scrollTo({ top: 0, behavior: 'smooth' });
-
+            
             // 點擊後自動關閉側邊欄
             document.getElementById('sidebar').classList.remove('open');
             document.getElementById('sidebarOverlay').classList.remove('show');
@@ -705,6 +711,9 @@
                     currentGrid.className = 'grid-container';
                     container.appendChild(currentGrid);
                 }
+                
+                // 動態取得對應的複製指令
+                const copyCommand = getCopyCommand(song.artist, song.link).replace(/'/g, "\\'");
 
                 currentGrid.innerHTML += `
                     <div class="card">
@@ -717,7 +726,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
                                 genie
                             </a>
-                            <button onclick="copyToClipboard('${song.link}', this)" class="btn-link btn-copy">
+                            <button onclick="copyToClipboard('${copyCommand}', this)" class="btn-link btn-copy">
                                 📋 Copy
                             </button>
                         </div>
