@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PoP tracker</title>
+    <title>GenieRadar</title>
     <link rel="icon" type="image/png" href="static/icon.png">
     <link
         href="https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&family=Open+Sans:wght@400;600;700&display=swap"
@@ -352,25 +352,18 @@
             border-color: #5CC9F5;
         }
 
-        /* 複製按鈕 (綠色系) */
+        /* === 複製連結按鈕 (低調灰色系) === */
         .btn-copy {
             background-color: #1f2937;
-            color: #69DB7C;
+            color: #a0aec0;
             border: 1px solid #2d3748;
             cursor: pointer;
-            font-family: 'Open Sans', sans-serif;
         }
 
         .btn-copy:hover {
-            background-color: #69DB7C;
-            color: #000;
-            border-color: #69DB7C;
-        }
-
-        .btn-copy.copied {
-            background-color: #69DB7C;
-            color: #000;
-            border-color: #69DB7C;
+            background-color: #4a5568;
+            color: #ffffff;
+            border-color: #a0aec0;
         }
 
         .status-msg {
@@ -427,7 +420,7 @@
 
 <body>
     <header>
-        <div class="logo"><span class="highlight-text">PoP</span> tracker</div>
+        <div class="logo"><span class="highlight-text">Genie</span>Radar</div>
         <div class="search-container">
             <span class="search-icon">🔍</span>
             <input type="text" id="searchInput" class="search-input" placeholder="Search artist or song..."
@@ -465,28 +458,17 @@
     </div>
 
     <script>
-        function copyLink(btn, url) {
-            navigator.clipboard.writeText(url).then(() => {
-                btn.classList.add('copied');
-                btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> 已複製`;
-                setTimeout(() => {
-                    btn.classList.remove('copied');
-                    btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg> 複製`;
+        function copyToClipboard(text, btnElement) {
+            navigator.clipboard.writeText(text).then(() => {
+                const originalHTML = btnElement.innerHTML;
+                btnElement.innerHTML = '✅ Copied!';
+                btnElement.style.color = '#69DB7C'; // 成功時文字轉綠色
+                setTimeout(() => { 
+                    btnElement.innerHTML = originalHTML; 
+                    btnElement.style.color = ''; // 2秒後恢復原狀
                 }, 2000);
-            }).catch(() => {
-                // fallback for older browsers
-                const ta = document.createElement('textarea');
-                ta.value = url;
-                document.body.appendChild(ta);
-                ta.select();
-                document.execCommand('copy');
-                document.body.removeChild(ta);
-                btn.classList.add('copied');
-                btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg> 已複製`;
-                setTimeout(() => {
-                    btn.classList.remove('copied');
-                    btn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg> 複製`;
-                }, 2000);
+            }).catch(err => {
+                console.error('Failed to copy: ', err);
             });
         }
 
@@ -511,7 +493,7 @@
                 document.getElementById('statusText').innerText = `Updated: ${data.updated_at}`;
 
                 if (data.tracked_artists && data.tracked_artists.length > 0) {
-                    // 加入此行：進行不區分大小寫的自然排序
+                    // 進行不區分大小寫的自然排序
                     data.tracked_artists.sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
                     
                     renderArtistList(data.tracked_artists);
@@ -639,11 +621,10 @@
                         <div class="action-container">
                             <a href="${song.link}" target="_blank" class="btn-link btn-genie">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
-                                genie
+                                Album
                             </a>
-                            <button onclick="copyLink(this, '${song.link}')" class="btn-link btn-copy">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
-                                複製
+                            <button onclick="copyToClipboard('${song.link}', this)" class="btn-link btn-copy">
+                                📋 Copy Link
                             </button>
                         </div>
                     </div>`;
