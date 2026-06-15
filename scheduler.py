@@ -6,40 +6,43 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta, timezone
 
 # ==========================================
-# 1. 設定監控藝人名單
+# 1. 設定監控藝人名單 (分類為 KR 與 JP)
 # ==========================================
-MY_ARTISTS = [
-    "ADORA", "ADYA", "aespa", "AKMU", "Apink",
-    "BABYMONSTER", "BADVILLAIN", "Baek A Yeon", "BBGIRLS",
-    "Billlie", "BLACKPINK", "BOL4", "BTS", "Choi Yoo jung", 
-    "Chung Ha", "CLASS:y", "CSR", "Dreamcatcher", "EL7Z UP", "Ellui", 
-    "Eunha", "EVERGLOW", "FIFTY FIFTY", "fromis_9", "Geenius", "GFRIEND",
-    "GOT the beat", "Gyubin", "H1-KEY", "Hayeon", "Hearts2Hearts", "Hebi",
-    "HUH YUNJIN", "HwaSa", "Hyoyeon", "i-dle", "ILLIT", "ILY:1",
-    "ITZY", "IU", "IVE", "izna", "Jennie", "Jeong hyo bean",
-    "JIHYO", "JISOO", "JO YURI", "Joy", "Kang Hye Won",
-    "KARD", "Kassy", "Kep1er", "KiiiKiii", "Kim Mi Jeong",
-    "Kim Sejeong", "KIMDOAH", "KISS OF LIFE", "Kwon Eun Bi",
-    "KyoungSeo", "LE SSERAFIM", "LEE CHAE YEON", "LEE HI",
-    "LIGHTSUM", "lilli lilli", "Lim Kim", "LIMELIGHT",
-    "Lisa", "Mamamoo", "Minnie", "Miyeon", "Moonbyul",
-    "MRCH", "NANA", "NAYEON", "NewJeans", "NMIXX", "OH MY GIRL",
-    "Punch", "QWER", "Red Velvet", "RESCENE", "Rosé", "Rothy",
-    "Ryu Su Jeong", "Saebit", "SECRET NUMBER", "Seo Dahyun",
-    "SEULGI", "SinB", "siso", "Solar", "Somi", "SOOJIN",
-    "Soyeon", "STAYC", "Suzy", "SWAN", "Taeyeon", "T-ara",
-    "TRI.BE", "tripleS", "TWICE", "TZUYU", "Umji",
-    "VIVIZ", "Wendy", "Wheein", "WINTER", "WJSN",
-    "Woo Yerin", "woo!ah!", "Yein", "YENA", "Yerin",
-    "YooA", "Younha", "Yuju", "Yunsae", "Yuqi", "LATENCY",
-    "BIBI",
-
-    "ado", "Ai Tomioka", "Aimer", "aimyon", "Aooo",
-    "ATARAYO", "BAND-MAID", "chilldspot", "Chilli Beans",
-    "Faulieu", "LiSA", "Majiko", "MINAMI", "NEK!", "ReoNa",
-    "TRiDENT", "tuki.", "yama", "YOASOBI", "Yuika",
-    "ZUTOMAYO", "ねぎ塩豚丼", "HANA", "Yorushika"
-]
+MY_ARTISTS = {
+    "KR": [
+        "ADORA", "ADYA", "aespa", "AKMU", "Apink",
+        "BABYMONSTER", "BADVILLAIN", "Baek A Yeon", "BBGIRLS",
+        "Billlie", "BLACKPINK", "BOL4", "BTS", "Choi Yoo jung", 
+        "Chung Ha", "CLASS:y", "CSR", "Dreamcatcher", "EL7Z UP", "Ellui", 
+        "Eunha", "EVERGLOW", "FIFTY FIFTY", "fromis_9", "Geenius", "GFRIEND",
+        "GOT the beat", "Gyubin", "H1-KEY", "Hayeon", "Hearts2Hearts", "Hebi",
+        "HUH YUNJIN", "HwaSa", "Hyoyeon", "i-dle", "ILLIT", "ILY:1",
+        "ITZY", "IU", "IVE", "izna", "Jennie", "Jeong hyo bean",
+        "JIHYO", "JISOO", "JO YURI", "Joy", "Kang Hye Won",
+        "KARD", "Kassy", "Kep1er", "KiiiKiii", "Kim Mi Jeong",
+        "Kim Sejeong", "KIMDOAH", "KISS OF LIFE", "Kwon Eun Bi",
+        "KyoungSeo", "LE SSERAFIM", "LEE CHAE YEON", "LEE HI",
+        "LIGHTSUM", "lilli lilli", "Lim Kim", "LIMELIGHT",
+        "Lisa", "Mamamoo", "Minnie", "Miyeon", "Moonbyul",
+        "MRCH", "NANA", "NAYEON", "NewJeans", "NMIXX", "OH MY GIRL",
+        "Punch", "QWER", "Red Velvet", "RESCENE", "Rosé", "Rothy",
+        "Ryu Su Jeong", "Saebit", "SECRET NUMBER", "Seo Dahyun",
+        "SEULGI", "SinB", "siso", "Solar", "Somi", "SOOJIN",
+        "Soyeon", "STAYC", "Suzy", "SWAN", "Taeyeon", "T-ara",
+        "TRI.BE", "tripleS", "TWICE", "TZUYU", "Umji",
+        "VIVIZ", "Wendy", "Wheein", "WINTER", "WJSN",
+        "Woo Yerin", "woo!ah!", "Yein", "YENA", "Yerin",
+        "YooA", "Younha", "Yuju", "Yunsae", "Yuqi", "LATENCY",
+        "BIBI"
+    ],
+    "JP": [
+        "ado", "Ai Tomioka", "Aimer", "aimyon", "Aooo",
+        "ATARAYO", "BAND-MAID", "chilldspot", "Chilli Beans",
+        "Faulieu", "LiSA", "Majiko", "MINAMI", "NEK!", "ReoNa",
+        "TRiDENT", "tuki.", "yama", "YOASOBI", "Yuika",
+        "ZUTOMAYO", "ねぎ塩豚丼", "HANA", "Yorushika"
+    ]
+}
 
 DATA_FILE = "songs_data.json"
 NAME_MAPPING = {}
@@ -75,7 +78,6 @@ def is_artist_match(target, text):
     # 如果 target 只包含英文字母或數字 (例如 "HANA", "QWER", "Lisa")
     if re.match(r'^[a-z0-9]+$', target):
         # 使用正規表達式檢查前後邊界
-        # (?:^|[^a-z0-9]) 表示前面必須是「字串開頭」或「非英數字元」
         pattern = r'(?:^|[^a-z0-9])' + re.escape(target) + r'(?:$|[^a-z0-9])'
         return re.search(pattern, text) is not None
         
@@ -91,6 +93,11 @@ def scrape_job():
     existing_songs = load_existing_data()
     existing_links = {song['link'] for song in existing_songs}
     new_songs = []
+
+    # 將分類的藝人名單扁平化，方便檢查
+    flat_artists = []
+    for category_artists in MY_ARTISTS.values():
+        flat_artists.extend(category_artists)
     
     try:
         url = "https://www.genie.co.kr/newest/song"
@@ -108,7 +115,7 @@ def scrape_job():
                 original_artist_name = artist_elem.text.strip() if artist_elem else "未知藝人"
 
                 is_tracked = False
-                for target in MY_ARTISTS:
+                for target in flat_artists:
                     if is_artist_match(target, original_artist_name):
                         is_tracked = True
                         break
@@ -187,10 +194,16 @@ def scrape_job():
         except ValueError:
             final_list.append(song)
 
+    # 排序各分類的藝人名單 (不分大小寫)
+    sorted_tracked_artists = {
+        category: sorted(artists, key=lambda x: x.lower()) 
+        for category, artists in MY_ARTISTS.items()
+    }
+
     # 3. 存檔
     data_to_save = {
         "updated_at": get_taiwan_time().strftime("%Y-%m-%d %H:%M:%S"),
-        "tracked_artists": sorted(MY_ARTISTS), 
+        "tracked_artists": sorted_tracked_artists, 
         "songs": final_list
     }
     
