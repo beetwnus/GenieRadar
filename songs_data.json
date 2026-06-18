@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-18 16:18:02",
+    "updated_at": "2026-06-18 20:31:13",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,126 @@
         ]
     },
     "songs": [
+        {
+            "artist": "Gemini (제미나이)",
+            "title": "Knight",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/696/87762696_1781489490977_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762696",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "안예은",
+            "title": "그렇게 나쁘진 않을걸",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/674/277/87674277_1781681871008_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87674277",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "공기남",
+            "title": "Airman: Reimagined #1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/066/87763066_1781677405460_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763066",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "시크릿 (Secret)",
+            "title": "Secret Flavor",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/775/020/87775020_1781685718487_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87775020",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "ILHOON",
+            "title": "Glory",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/696/424/87696424_1780314091346_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87696424",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "제아 (브라운아이드걸스)",
+            "title": "ROMANCE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/690/87762690_1781665787063_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762690",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "유성은",
+            "title": "The Meteor Is Glowing",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/775/009/87775009_1781685401408_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87775009",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "꽃감이",
+            "title": "Light My Night",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/576/87763576_1781512293102_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763576",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "lobonabeat!",
+            "title": "엄지 검지 Remix",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/772/812/87772812_1781777658810_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87772812",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "린 (LYn)",
+            "title": "아이 좋아 (고속도로 Remix)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/774/834/87774834_1781682394522_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87774834",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "정새벽",
+            "title": "낡은 꿈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/733/106/87733106_1781660584630_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87733106",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "리",
+            "title": "쏟아지는 비가 내린 것처럼",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/774/666/87774666_1781678201523_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87774666",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "조항조",
+            "title": "맨발의 탱고",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/022/87763022_1781664009315_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763022",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "데이차일드 (DayChild)",
+            "title": "MEMORIES",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/738/311/87738311_1781613869989_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87738311",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
+        {
+            "artist": "도진이",
+            "title": "JAC Shorts challenge vol.1",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/631/87768631_1781684149063_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768631",
+            "found_at": "2026-06-18 20:31",
+            "is_tracked": false
+        },
         {
             "artist": "김진원 (kimjinwon)",
             "title": "텅 빈 밤",
