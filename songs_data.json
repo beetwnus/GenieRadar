@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-19 16:39:23",
+    "updated_at": "2026-06-19 20:53:32",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,118 @@
         ]
     },
     "songs": [
+        {
+            "artist": "ZENE THE ZILLA (제네 더 질라)",
+            "title": "CHOROK : MIXTAPE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/367/87778367_1781751134181_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778367",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "이세계아이돌",
+            "title": "Smile For You",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/749/421/87749421_1781223094786_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87749421",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "성시경 & Raisa",
+            "title": "Heaven Knows",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/157/87780157_1781778757485_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780157",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "허성현 (rosy)",
+            "title": "another dimension",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/379/87768379_1781768171604_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768379",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "송소희",
+            "title": "PARADE (生)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/292/87763292_1781752540381_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763292",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "민혁 (몬스타엑스)",
+            "title": "Reaching",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/155/87780155_1781778751315_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780155",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "KURO",
+            "title": "모래성",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/204/87763204_1781677736874_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763204",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "아우릴고트 (OUREALGOAT)",
+            "title": "아무런 대답도 없지만",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/773/693/87773693_1781667724943_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87773693",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "지셀 (Jiselle)",
+            "title": "i said it",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/729/87762729_1781489844146_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762729",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "키드킹 (Kidd King)",
+            "title": "MMM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/740/87778740_1781758331351_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778740",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "Yung Blesh",
+            "title": "Am I Trippin'?",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/780/159/87780159_1781778991651_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87780159",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "음유시인(吟遊詩人)",
+            "title": "설렘은 과학",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/750/114/87750114_1781747061752_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87750114",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "BINL",
+            "title": "Track 9",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/536/87763536_1781666481734_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763536",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
+        {
+            "artist": "손예윤",
+            "title": "구독연애 OST Part.7",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/772/687/87772687_1781769045903_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87772687",
+            "found_at": "2026-06-19 20:53",
+            "is_tracked": false
+        },
         {
             "artist": "노아주다 (noahjooda)",
             "title": "내 소식 들었으면 좋겠어",
