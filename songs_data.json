@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-06-20 15:07:38",
+    "updated_at": "2026-06-20 19:25:13",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,62 @@
         ]
     },
     "songs": [
+        {
+            "artist": "성리",
+            "title": "모나리자 (from 사랑을 처방해 드립니다 OST Part 13)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/778/899/87778899_1781760726092_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87778899",
+            "found_at": "2026-06-20 19:25",
+            "is_tracked": false
+        },
+        {
+            "artist": "산다라박",
+            "title": "REPRISM",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/779/244/87779244_1781832960608_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87779244",
+            "found_at": "2026-06-20 19:25",
+            "is_tracked": false
+        },
+        {
+            "artist": "can't be blue (캔트비블루)",
+            "title": "can't be blue",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/509/87783509_1781837529671_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783509",
+            "found_at": "2026-06-20 19:25",
+            "is_tracked": false
+        },
+        {
+            "artist": "KYSB (김영석밴드)",
+            "title": "젊은 우리(Young)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/763/261/87763261_1781677752043_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87763261",
+            "found_at": "2026-06-20 19:25",
+            "is_tracked": false
+        },
+        {
+            "artist": "VAUNSHER(본셔)",
+            "title": "Like That",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/783/203/87783203_1781833021483_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87783203",
+            "found_at": "2026-06-20 19:25",
+            "is_tracked": false
+        },
+        {
+            "artist": "미라쿠도",
+            "title": "2026 월간 미라쿠도 6화",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/762/789/87762789_1781515149297_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87762789",
+            "found_at": "2026-06-20 19:25",
+            "is_tracked": false
+        },
+        {
+            "artist": "수 (sooth)",
+            "title": "틈",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/768/536/87768536_1781844771741_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87768536",
+            "found_at": "2026-06-20 19:25",
+            "is_tracked": false
+        },
         {
             "artist": "A-1000",
             "title": "it's us",
