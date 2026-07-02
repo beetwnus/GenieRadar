@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-07-02 14:49:24",
+    "updated_at": "2026-07-02 19:42:48",
     "tracked_artists": {
         "KR": [
             "ADORA",
@@ -152,6 +152,110 @@
         ]
     },
     "songs": [
+        {
+            "artist": "장한음",
+            "title": "친구에게 떨릴 수는 없는 거잖아",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/834/116/87834116_1782873094979_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87834116",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "10CM",
+            "title": "일말의 가능성",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/836/051/87836051_1782896678960_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87836051",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "츄 (CHUU)",
+            "title": "RULE",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/833/994/87833994_1782871306047_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87833994",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "지아",
+            "title": "하필 비가 내려",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/835/652/87835652_1782891433773_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87835652",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "양정승 (Kiroy Y)",
+            "title": "하늘아래 (feat. 박찬영)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/048/87826048_1782711107532_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826048",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "리오 (RIO)",
+            "title": "Ivy",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/800/450/87800450_1782703833153_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87800450",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "JUNE",
+            "title": "나는 너의",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/833/760/87833760_1782868359278_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87833760",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "송가인",
+            "title": "꽃이 아니면 어떤가",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/836/030/87836030_1782896669243_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87836030",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "이준호",
+            "title": "안에 사람 있어요",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/810/711/87810711_1782455512054_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87810711",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "박다혜",
+            "title": "열혈강호 넥스트 Vol. 1 (Original Game Soundtrack)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/836/050/87836050_1782896674406_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87836050",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "더베인 (THE VANE)",
+            "title": "균열",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/880/87829880_1782907883851_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829880",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "Potty Monkey",
+            "title": "Work (feat. Swings)",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/829/414/87829414_1782789694021_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87829414",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
+        {
+            "artist": "ABOUT (어바웃)",
+            "title": "Freediving",
+            "image": "https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/087/826/006/87826006_1782820316570_1_140x140.JPG/dims/resize/Q_80,0",
+            "link": "https://www.genie.co.kr/detail/albumInfo?axnm=87826006",
+            "found_at": "2026-07-02 19:42",
+            "is_tracked": false
+        },
         {
             "artist": "육중완밴드",
             "title": "어쩔건데",
